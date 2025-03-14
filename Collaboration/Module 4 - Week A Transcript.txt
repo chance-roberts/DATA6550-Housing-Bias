@@ -1,0 +1,4513 @@
+==============================================================
+Guild: DATA 6550 - Group 6
+Channel: Module 4 / module-4-transcript / Transcription from 2025-03-13T23:06:02Z
+==============================================================
+
+[3/13/2025 6:06 PM] Chance
+But yeah, that's that's kind of where like I'm.
+
+
+[3/13/2025 6:06 PM] Chance
+Thank you.
+
+
+[3/13/2025 6:06 PM] Chance
+them like, there's...
+
+
+[3/13/2025 6:06 PM] Chance
+new assistant way.
+
+
+[3/13/2025 6:06 PM] Autumn
+And I'm curious, too, like, um, there's G, I'll see, G-O, okay, and me.
+
+
+[3/13/2025 6:06 PM] Autumn
+Um.
+
+
+[3/13/2025 6:06 PM] Autumn
+and a pin county racial covenants data that
+
+
+[3/13/2025 6:06 PM] Autumn
+We were provided or
+
+
+[3/13/2025 6:06 PM] Chance
+the the table one.
+
+
+[3/13/2025 6:06 PM] Autumn
+one on the left side, the table one, yes.
+
+
+[3/13/2025 6:06 PM] Autumn
+So that in column Z has or I'm sorry you is distance and then
+
+
+[3/13/2025 6:06 PM] Autumn
+the henna pin
+
+
+[3/13/2025 6:07 PM] Autumn
+County Covenants table that's on GitHub.
+
+
+[3/13/2025 6:07 PM] Autumn
+That's formatted like the Ramsey County one.
+
+
+[3/13/2025 6:07 PM] Autumn
+has in common.
+
+
+[3/13/2025 6:07 PM] Autumn
+Z what is it geo CD distance? I'm wondering if that's the same thing and if that
+
+
+[3/13/2025 6:07 PM] Autumn
+as any rebel dance.
+
+
+[3/13/2025 6:07 PM] Chance
+Let me pull up the...
+
+
+[3/13/2025 6:07 PM] Chance
+Data dictionary.
+
+
+[3/13/2025 6:07 PM] Autumn
+Okay, you know, I was...
+
+
+[3/13/2025 6:07 PM] Chance
+Because that was a...
+
+
+[3/13/2025 6:07 PM] Autumn
+Nope.
+
+
+[3/13/2025 6:07 PM] Chance
+So I'll drop that link in the...
+
+
+[3/13/2025 6:07 PM] Autumn
+I'm finished, nerd.
+
+
+[3/13/2025 6:07 PM] Chance
+if you go to that link.
+
+
+[3/13/2025 6:07 PM] Ashlyn
+Oh!
+
+
+[3/13/2025 6:07 PM] Chance
+So distance refers to...
+
+
+[3/13/2025 6:07 PM] Chance
+Distance of the current address point
+ from the closest parcel polygonal boundary.
+ A value of zero indicates the current address point
+ falls within the parcel boundary.
+ Unit is in meters.
+
+
+[3/13/2025 6:08 PM] Ashlyn
+are you'll have an issue with merging them?
+
+
+[3/13/2025 6:08 PM] Chance
+Because yeah, like, there's no...
+
+
+[3/13/2025 6:08 PM] Autumn
+Like action why was creepy? A-dead.
+
+
+[3/13/2025 6:08 PM] Chance
+And I, yes, could just cry.
+
+
+[3/13/2025 6:08 PM] Ashlyn
+to help them GPT.
+
+
+[3/13/2025 6:08 PM] Chance
+What did you hurt?
+
+
+[3/13/2025 6:08 PM] Ashlyn
+You have to update.
+
+
+[3/13/2025 6:08 PM] Ashlyn
+If you
+
+
+[3/13/2025 6:08 PM] Chance
+Or did you?
+
+
+[3/13/2025 6:08 PM] Ashlyn
+Let me send the link to my GitHub, I put my file on there.
+
+
+[3/13/2025 6:08 PM] Autumn
+I just want to show.
+
+
+[3/13/2025 6:08 PM] Chance
+Yeah, because like I, like I said, I sent both file like all the files I had through chat GPT just like a like hey can you like
+
+
+[3/13/2025 6:08 PM] Chance
+like infer any similarities in this information.
+
+
+[3/13/2025 6:08 PM] Ashlyn
+What is it? So...
+
+
+[3/13/2025 6:09 PM] Ashlyn
+PRF.
+
+
+[3/13/2025 6:09 PM] Chance
+the wait which one?
+
+
+[3/13/2025 6:09 PM] Ashlyn
+But the RS is have to be XGB.
+
+
+[3/13/2025 6:09 PM] Ashlyn
+I don't know what the heck that is!
+
+
+[3/13/2025 6:09 PM] Ashlyn
+they have to match. When we talk
+
+
+[3/13/2025 6:09 PM] Ashlyn
+to find.
+
+
+[3/13/2025 6:09 PM] Ashlyn
+It wouldn't work, so I was...
+
+
+[3/13/2025 6:09 PM] Ashlyn
+for each of them in order for me to merge them.
+
+
+[3/13/2025 6:09 PM] Ashlyn
+different. So I had to change it for her.
+
+
+[3/13/2025 6:09 PM] Chance
+But I don't think it's an issue as...
+
+
+[3/13/2025 6:09 PM] Chance
+the...
+
+
+[3/13/2025 6:09 PM] Chance
+I don't uh, hold on, uh, control the, hold each other, bye.
+
+
+[3/13/2025 6:10 PM] Chance
+Um.
+
+
+[3/13/2025 6:10 PM] Kirstin
+and finally oh my gosh.
+
+
+[3/13/2025 6:10 PM] Kirstin
+Hey, now I see you.
+
+
+[3/13/2025 6:10 PM] Chance
+But yeah, because it's like...
+
+
+[3/13/2025 6:10 PM] Chance
+the issue there.
+
+
+[3/13/2025 6:10 PM] Kirstin
+And it wouldn't take by class for it.
+
+
+[3/13/2025 6:10 PM] Chance
+The issue that I encountered with the Ramsey County data is that there isn't
+
+
+[3/13/2025 6:10 PM] Chance
+a latitude and longitude.
+
+
+[3/13/2025 6:10 PM] Chance
+the time so.
+
+
+[3/13/2025 6:10 PM] Ashlyn
+I don't even got that far.
+
+
+[3/13/2025 6:10 PM] Chance
+so it's like.
+
+
+[3/13/2025 6:10 PM] Chance
+So like the way the student notebook is like laid out.
+
+
+[3/13/2025 6:10 PM] Chance
+It's meant for that table CSV thing that you sent, Ashlin.
+
+
+[3/13/2025 6:10 PM] Chance
+And then like the next section is like
+
+
+[3/13/2025 6:11 PM] Chance
+converting the x and y variables from that data set into
+
+
+[3/13/2025 6:11 PM] Chance
+Latitude and longitude, errrr.
+
+
+[3/13/2025 6:11 PM] Chance
+into census data tracks.
+
+
+[3/13/2025 6:11 PM] Chance
+It's like if we don't, if we don't have the
+
+
+[3/13/2025 6:11 PM] Kirstin
+Kirstin disconnected
+
+
+[3/13/2025 6:11 PM] Chance
+like either of those, oh, let me see.
+
+
+[3/13/2025 6:11 PM] Chance
+I don't think we have that information, the...
+
+
+[3/13/2025 6:11 PM] Autumn
+I'm not- I didn't see it.
+ Um, and that's why I'm almost want to heat- you know, that's what's in the student notebook is X and Y, but I'm-
+
+
+[3/13/2025 6:11 PM] Chance
+What does it look like?
+
+
+[3/13/2025 6:11 PM] Autumn
+I'm not wondering if it's necessary, I mean it's like this is where it gets tricky because you have like the track and you have
+
+
+[3/13/2025 6:11 PM] Autumn
+Latitude and longitude.
+
+
+[3/13/2025 6:11 PM] Autumn
+if
+
+
+[3/13/2025 6:11 PM] Chance
+But it's like there may be one thing if it's like, oh, like the census tract information is in the
+
+
+[3/13/2025 6:11 PM] Chance
+Um.
+
+
+[3/13/2025 6:12 PM] Autumn
+The Ramsey.
+
+
+[3/13/2025 6:12 PM] Chance
+is in the like the Ramsey County data set.
+
+
+[3/13/2025 6:12 PM] Autumn
+Good morning.
+
+
+[3/13/2025 6:12 PM] Ashlyn
+to of mine.
+
+
+[3/13/2025 6:12 PM] Ashlyn
+I looked up the senses.
+
+
+[3/13/2025 6:12 PM] Ashlyn
+G and it gave me that.
+
+
+[3/13/2025 6:12 PM] Ashlyn
+and let me change the covenant one to the same.
+ So in section three, I was able to merge
+ this and the covenant.
+
+
+[3/13/2025 6:12 PM] Chance
+Can you share your screen?
+
+
+[3/13/2025 6:12 PM] Autumn
+I was the analysis, we'll bet.
+
+
+[3/13/2025 6:12 PM] Autumn
+Okay, thank you for sharing that because I was thinking what he gave us was like henna pin and how he was
+
+
+[3/13/2025 6:12 PM] Autumn
+it emerge. So I really didn't go through the process of emerging anything with hand-up in.
+ Bye!
+
+
+[3/13/2025 6:12 PM] Chance
+That's how I interpreted it, was that like, because it's like they wouldn't be the same
+ census tract, and to my understanding.
+
+
+[3/13/2025 6:13 PM] Chance
+So yeah, you've got...
+
+
+[3/13/2025 6:13 PM] Autumn
+I'm...
+
+
+[3/13/2025 6:13 PM] Chance
+Here you've got the...
+
+
+[3/13/2025 6:13 PM] Ashlyn
+That's the henna pin.
+
+
+[3/13/2025 6:13 PM] Ashlyn
+Yeah.
+
+
+[3/13/2025 6:13 PM] Ashlyn
+the X and Y.
+
+
+[3/13/2025 6:13 PM] Ashlyn
+I checked the spring.
+
+
+[3/13/2025 6:13 PM] Chance
+Yeah, that's you.
+
+
+[3/13/2025 6:13 PM] Ashlyn
+whatever this CRS is.
+
+
+[3/13/2025 6:13 PM] Ashlyn
+We're both in match pretty much the sensitive.
+
+
+[3/13/2025 6:13 PM] Ashlyn
+and the covenant.
+ Thank you.
+
+
+[3/13/2025 6:13 PM] Ashlyn
+to merge.
+
+
+[3/13/2025 6:13 PM] Chance
+So yeah, that's.
+
+
+[3/13/2025 6:14 PM] Chance
+That's just for the Hennepin County data.
+
+
+[3/13/2025 6:14 PM] Autumn
+Yeah, and that that makes me.
+
+
+[3/13/2025 6:14 PM] Autumn
+Oh
+
+
+[3/13/2025 6:14 PM] Autumn
+I'm sorry because, um, yeah, so you've got...
+
+
+[3/13/2025 6:14 PM] Autumn
+the x and the y.
+
+
+[3/13/2025 6:14 PM] Autumn
+because that data was formatted. Right? You use the data, it's like straight from
+ the the web's the mapping prejudice or the University of Minnesota website
+ like the original data.
+
+
+[3/13/2025 6:14 PM] Ashlyn
+I was just trying to fuck it up.
+
+
+[3/13/2025 6:14 PM] Chance
+Yeah, because like I'm.
+
+
+[3/13/2025 6:14 PM] Autumn
+Gotcha. Yeah, that's why it's perfect.
+
+
+[3/13/2025 6:14 PM] Ashlyn
+was working for me.
+
+
+[3/13/2025 6:14 PM] Autumn
+Yeah, that's, yeah, that's what I started with. That's why when I chimed in yesterday,
+ she was like, I have that data. I'm like, what is your problem? Maybe I need to stop.
+
+
+[3/13/2025 6:14 PM] Autumn
+talking because I obviously am laugh.
+
+
+[3/13/2025 6:15 PM] Autumn
+I'm like, okay, I'm doing something different.
+
+
+[3/13/2025 6:15 PM] Chance
+Yeah, because it's like I was able to run the full workbook or the whole the full student notebook.
+
+
+[3/13/2025 6:15 PM] Autumn
+Yeah.
+
+
+[3/13/2025 6:15 PM] Chance
+or.
+
+
+[3/13/2025 6:15 PM] Chance
+for the...
+
+
+[3/13/2025 6:15 PM] Chance
+Hennepin County, Dato, because basically the, the student
+ of book is how he created or how he got the,
+
+
+[3/13/2025 6:15 PM] Chance
+mortgage covenant data for us.
+
+
+[3/13/2025 6:15 PM] Autumn
+So that's...
+
+
+[3/13/2025 6:15 PM] Chance
+because then like he provided that and then like,
+ that's whenever he said like, okay, now expand it to...
+
+
+[3/13/2025 6:15 PM] Autumn
+ramsy and then ramsy with a whole different beast.
+
+
+[3/13/2025 6:15 PM] Autumn
+Like you said, though.
+
+
+[3/13/2025 6:15 PM] Chance
+Yeah.
+
+
+[3/13/2025 6:15 PM] Autumn
+shape so it's um again i'm trying to look at it just by titles and see what
+
+
+[3/13/2025 6:15 PM] Autumn
+the most relevant.
+
+
+[3/13/2025 6:16 PM] Autumn
+um
+
+
+[3/13/2025 6:16 PM] Autumn
+all the coordinates are on there and that deals with the tracks but
+
+
+[3/13/2025 6:16 PM] Chance
+Let me.
+
+
+[3/13/2025 6:16 PM] Autumn
+I'm wondering if there's a way we could just.
+
+
+[3/13/2025 6:16 PM] Autumn
+Mm.
+
+
+[3/13/2025 6:16 PM] Autumn
+Use something else and merge it.
+
+
+[3/13/2025 6:16 PM] Autumn
+on a different um.
+
+
+[3/13/2025 6:16 PM] Autumn
+variable.
+
+
+[3/13/2025 6:16 PM] Autumn
+And just use like the senses trout.
+
+
+[3/13/2025 6:16 PM] Autumn
+versus trying to emerge the census tracts.
+
+
+[3/13/2025 6:16 PM] Autumn
+or change them to latitude and longitude, or I can't remember what he said in there. Am I making any sense? And if not, maybe we just go about this a whole different route.
+
+
+[3/13/2025 6:16 PM] Autumn
+I'm not sure.
+
+
+[3/13/2025 6:16 PM] Chance
+Well, and that's, let's like wait.
+
+
+[3/13/2025 6:16 PM] Autumn
+I don't believe it.
+
+
+[3/13/2025 6:16 PM] Chance
+like I'm surprised that he hasn't like responded because
+
+
+[3/13/2025 6:16 PM] Autumn
+We'll talk.
+
+
+[3/13/2025 6:16 PM] Chance
+here. Hold on, I'm making a, I'm,
+
+
+[3/13/2025 6:16 PM] Chance
+Ramsay.
+
+
+[3/13/2025 6:16 PM] Chance
+I'm going to...
+
+
+[3/13/2025 6:16 PM] Chance
+Okay, it's done.
+
+
+[3/13/2025 6:16 PM] Kirstin
+Do you email him or something?
+
+
+[3/13/2025 6:17 PM] Kirstin
+in the discussion.
+
+
+[3/13/2025 6:17 PM] Chance
+So I did it because right whenever I was getting ready to I saw the Isaiah had posted about it. So I was like, oh, like
+
+
+[3/13/2025 6:17 PM] Chance
+I was like, okay, yeah, like, we're not the only group
+ that's having the, that's encountering.
+
+
+[3/13/2025 6:17 PM] Chance
+Um.
+
+
+[3/13/2025 6:17 PM] Kirstin
+Yeah, here's, let's see, last post yesterday.
+
+
+[3/13/2025 6:17 PM] Kirstin
+I'm going to get the new data set up for Ramsey County. It doesn't even know.
+
+
+[3/13/2025 6:17 PM] Kirstin
+where the covenants table comes from.
+
+
+[3/13/2025 6:17 PM] Kirstin
+Yeah, the only comments are from you and IZ.
+
+
+[3/13/2025 6:17 PM] Kirstin
+love that.
+
+
+[3/13/2025 6:17 PM] Chance
+But like, I had responded to...
+
+
+[3/13/2025 6:17 PM] Chance
+to somebody's message on.
+
+
+[3/13/2025 6:17 PM] Chance
+Thursday of last week, like right after class.
+
+
+[3/13/2025 6:17 PM] Chance
+Yeah, and then I was like, hey.
+
+
+[3/13/2025 6:18 PM] Autumn
+Abby had posted something and I remember when he told her that this was just like start with the original data set or whatever it
+
+
+[3/13/2025 6:18 PM] Autumn
+You may have what you really need.
+
+
+[3/13/2025 6:18 PM] Chance
+Hold on, um...
+
+
+[3/13/2025 6:18 PM] Chance
+uh
+
+
+[3/13/2025 6:18 PM] Chance
+I'm like making a
+
+
+[3/13/2025 6:18 PM] Chance
+copy of the student workbook that
+
+
+[3/13/2025 6:18 PM] Chance
+is...
+
+
+[3/13/2025 6:18 PM] Chance
+that just mimics everything that is in the
+
+
+[3/13/2025 6:18 PM] Chance
+Staying.
+
+
+[3/13/2025 6:18 PM] Chance
+like that's already in there.
+
+
+[3/13/2025 6:18 PM] Autumn
+mm-hmm.
+
+
+[3/13/2025 6:18 PM] Chance
+I'm sorry.
+ I'm not recording.
+
+
+[3/13/2025 6:18 PM] Kirstin
+Yeah, and he had responded to that one from Abby just saying,
+ if you look at the code, it talks more about where the data came from.
+
+
+[3/13/2025 6:18 PM] Autumn
+Okay.
+
+
+[3/13/2025 6:18 PM] Chance
+Well, enough for fingers.
+
+
+[3/13/2025 6:18 PM] Kirstin
+and how it was created, like, okay.
+
+
+[3/13/2025 6:18 PM] Chance
+Well, in like I get that.
+
+
+[3/13/2025 6:18 PM] Autumn
+Thank you.
+
+
+[3/13/2025 6:19 PM] Chance
+But also, like, whenever I was trying to create it, like, I couldn't, I did not know that that table fight, like, I could not find that table CS3 to save my life.
+
+
+[3/13/2025 6:19 PM] Chance
+And that's why whenever I was looking at their GitHub,
+ I found this other data set that like, why isn't this working?
+
+
+[3/13/2025 6:19 PM] Autumn
+Yeah. Well, and it's interesting because, you know, on the mapping prejudice, I mean, it clearly has henna pens. Someone took that.
+
+
+[3/13/2025 6:19 PM] Autumn
+and did more extensive work because when you click on the other counties, it takes you to the GitHub site.
+
+
+[3/13/2025 6:19 PM] Autumn
+So it's...
+
+
+[3/13/2025 6:19 PM] Autumn
+And I just can't name it. Yeah.
+
+
+[3/13/2025 6:19 PM] Chance
+Yeah, so it's like that's where I'm like really confused because I'm like
+
+
+[3/13/2025 6:19 PM] Chance
+All right, let's...
+
+
+[3/13/2025 6:19 PM] Ashlyn
+which group member you want to be.
+
+
+[3/13/2025 6:20 PM] Chance
+So yeah, this...
+
+
+[3/13/2025 6:20 PM] Chance
+Here, let me show my screen.
+
+
+[3/13/2025 6:20 PM] Chance
+you could you can keep your it yeah it doesn't
+
+
+[3/13/2025 6:20 PM] Chance
+This quarter doesn't.
+
+
+[3/13/2025 6:20 PM] Chance
+So.
+
+
+[3/13/2025 6:20 PM] Chance
+Not like, not like us.
+
+
+[3/13/2025 6:20 PM] Chance
+whatever it's called zoom.
+ Um, so this is
+
+
+[3/13/2025 6:20 PM] Chance
+So this is the...
+
+
+[3/13/2025 6:20 PM] Kirstin
+It's so shiny.
+
+
+[3/13/2025 6:20 PM] Chance
+Oh, um.
+
+
+[3/13/2025 6:20 PM] Chance
+and hold on I can also change the color that way you can...
+
+
+[3/13/2025 6:20 PM] Chance
+a little bit.
+
+
+[3/13/2025 6:20 PM] Chance
+Let's go.
+
+
+[3/13/2025 6:20 PM] Chance
+There we go.
+
+
+[3/13/2025 6:20 PM] Chance
+um...
+ Troll Shirt... uh... view...
+
+
+[3/13/2025 6:20 PM] Chance
+is their control equals, that is the
+
+
+[3/13/2025 6:21 PM] Chance
+So.
+
+
+[3/13/2025 6:21 PM] Chance
+This is the
+
+
+[3/13/2025 6:21 PM] Chance
+the notebook as it.
+
+
+[3/13/2025 6:21 PM] Autumn
+given to us. Yeah.
+
+
+[3/13/2025 6:21 PM] Chance
+as it was like, this is the one that was on dtl. And then I adapted it to where it pulls from
+
+
+[3/13/2025 6:21 PM] Chance
+the like the files that are in GitHub.
+
+
+[3/13/2025 6:21 PM] Autumn
+Hmm.
+
+
+[3/13/2025 6:21 PM] Chance
+Um.
+
+
+[3/13/2025 6:21 PM] Chance
+So.
+
+
+[3/13/2025 6:21 PM] Chance
+Yeah, there's Hennepin Counties.
+
+
+[3/13/2025 6:21 PM] Chance
+Koo-da!
+
+
+[3/13/2025 6:21 PM] Chance
+that pulls.
+
+
+[3/13/2025 6:21 PM] Chance
+the census tracks.
+
+
+[3/13/2025 6:21 PM] Kirstin
+All right.
+
+
+[3/13/2025 6:21 PM] Chance
+Oh, save.
+
+
+[3/13/2025 6:21 PM] Chance
+Tuh, no.
+
+
+[3/13/2025 6:21 PM] Chance
+and then data available, pulls that in a Soto file.
+
+
+[3/13/2025 6:21 PM] Chance
+Pulls that table.
+
+
+[3/13/2025 6:22 PM] Chance
+And then...
+
+
+[3/13/2025 6:22 PM] Autumn
+Yeah.
+
+
+[3/13/2025 6:22 PM] Chance
+It's just those that are causing the issue, but then
+
+
+[3/13/2025 6:22 PM] Autumn
+And you, we don't need, because that was so...
+
+
+[3/13/2025 6:22 PM] Autumn
+when I looked at the data dictionary, it says that was like
+ created by the software.
+
+
+[3/13/2025 6:22 PM] Autumn
+they used or something. So it's interesting that that column is in there because it doesn't relate
+
+
+[3/13/2025 6:22 PM] Chance
+the FID.
+
+
+[3/13/2025 6:22 PM] Autumn
+Yeah!
+
+
+[3/13/2025 6:22 PM] Chance
+well i think it's probably just like
+
+
+[3/13/2025 6:22 PM] Chance
+It's probably like a primary key like it's just what they use.
+
+
+[3/13/2025 6:22 PM] Chance
+to like.
+
+
+[3/13/2025 6:22 PM] Chance
+It's easier to assign each row or each entry a number than to
+
+
+[3/13/2025 6:22 PM] Chance
+there's probably like what i would imagine is there's another table that has
+
+
+[3/13/2025 6:23 PM] Chance
+like all of the address information or like parts of the relevant information,
+ and then like it has this as a
+
+
+[3/13/2025 6:23 PM] Chance
+as a column somewhere.
+
+
+[3/13/2025 6:23 PM] Autumn
+Got to chill.
+
+
+[3/13/2025 6:23 PM] Autumn
+Yeah, I was just thinking that's not relevant to like the other data, I think he's not going to match any of the other.
+
+
+[3/13/2025 6:23 PM] Chance
+Yeah.
+
+
+[3/13/2025 6:23 PM] Chance
+within.
+
+
+[3/13/2025 6:23 PM] Autumn
+Neables that work for at least my knowledge because they weren't created in the same way.
+
+
+[3/13/2025 6:23 PM] Chance
+So then after merging, this is our...
+
+
+[3/13/2025 6:23 PM] Chance
+completed data set.
+
+
+[3/13/2025 6:23 PM] Autumn
+I want this T-Mine to...
+
+
+[3/13/2025 6:23 PM] Autumn
+to go back since you're sharing your sc... I mean, just scroll back. I'm looking at the columns.
+
+
+[3/13/2025 6:23 PM] Autumn
+And I'm sorry where you were in that code block or in the output, I guess at the bottom, scroll back to the left.
+ Yeah, thank you.
+
+
+[3/13/2025 6:23 PM] Autumn
+This is so cool.
+
+
+[3/13/2025 6:23 PM] Chance
+Yeah, here's all of the columns as well.
+
+
+[3/13/2025 6:23 PM] Autumn
+Oh, thank you, duh.
+
+
+[3/13/2025 6:23 PM] Autumn
+Um.
+
+
+[3/13/2025 6:23 PM] Autumn
+see it's got the sense number is x and y?
+
+
+[3/13/2025 6:24 PM] Autumn
+even in there?
+
+
+[3/13/2025 6:24 PM] Chance
+Well, so this, this is, this is how.
+
+
+[3/13/2025 6:24 PM] Chance
+Via...
+
+
+[3/13/2025 6:24 PM] Chance
+Mortgage Covenant data was created.
+
+
+[3/13/2025 6:24 PM] Chance
+Yes.
+
+
+[3/13/2025 6:24 PM] Autumn
+right and it that was because that was the merge correct i'm just figuring i'm wondering
+
+
+[3/13/2025 6:24 PM] Autumn
+how we could get.
+
+
+[3/13/2025 6:24 PM] Autumn
+similar
+
+
+[3/13/2025 6:24 PM] Autumn
+Results.
+
+
+[3/13/2025 6:24 PM] Autumn
+Just.
+
+
+[3/13/2025 6:24 PM] Chance
+So let me go back to this.
+
+
+[3/13/2025 6:24 PM] Autumn
+but I'm going to just play, you know.
+
+
+[3/13/2025 6:24 PM] Chance
+So this is the one that I made for Ramsay County.
+
+
+[3/13/2025 6:24 PM] Chance
+Bye.
+
+
+[3/13/2025 6:24 PM] Chance
+Um, no, chitch-chitch.
+
+
+[3/13/2025 6:24 PM] Chance
+WorkageData.shape.com.
+
+
+[3/13/2025 6:24 PM] Kirstin
+The pants.
+
+
+[3/13/2025 6:24 PM] Chance
+So.
+
+
+[3/13/2025 6:24 PM] Kirstin
+Yeah.
+
+
+[3/13/2025 6:24 PM] Chance
+or get stated.
+
+
+[3/13/2025 6:25 PM] Chance
+All you counts.
+
+
+[3/13/2025 6:25 PM] Chance
+What the, what's the?
+
+
+[3/13/2025 6:25 PM] Chance
+and subtract.
+
+
+[3/13/2025 6:25 PM] Chance
+What are
+
+
+[3/13/2025 6:25 PM] Autumn
+Yeah, I know that's, you know, in the coast recently, um, it was stated like this where it gets tricky because there was latitude and longitude and one had census tract, but
+
+
+[3/13/2025 6:25 PM] Autumn
+Then do we even do we even need the X and Y if we've got census tract and we're looking at it by triax and those are
+
+
+[3/13/2025 6:25 PM] Autumn
+The essentially the same pieces of data, um...
+
+
+[3/13/2025 6:25 PM] Chance
+I guess so, yeah, but
+
+
+[3/13/2025 6:25 PM] Chance
+Mr. Tramall.
+
+
+[3/13/2025 6:25 PM] Autumn
+I would be eating what I mean like can we get rid of X and Y and still have it merged with the same you know in the same way so we can get the same type of information.
+
+
+[3/13/2025 6:25 PM] Chance
+But like, what is...
+
+
+[3/13/2025 6:25 PM] Chance
+It's all we're doing here is weird.
+
+
+[3/13/2025 6:26 PM] Chance
+Well, because one is one it is.
+
+
+[3/13/2025 6:26 PM] Autumn
+and I am seeing this ideally what we were doing.
+
+
+[3/13/2025 6:26 PM] Chance
+because one is
+
+
+[3/13/2025 6:26 PM] Chance
+census or mortgage data.
+
+
+[3/13/2025 6:26 PM] Autumn
+Right there under yeah where it says merge the two data sets that's where it talks about this is where it gets.
+
+
+[3/13/2025 6:26 PM] Autumn
+He won data set uses latitude and longitude in the others set up his data trials.
+
+
+[3/13/2025 6:26 PM] Autumn
+And we need to convert the latitude and longitude, but that I'm
+
+
+[3/13/2025 6:26 PM] Autumn
+I'm wondering is that necessary?
+
+
+[3/13/2025 6:26 PM] Chance
+that I'm like, what I'm confused on is like.
+
+
+[3/13/2025 6:26 PM] Chance
+What
+
+
+[3/13/2025 6:26 PM] Chance
+Hold on.
+
+
+[3/13/2025 6:26 PM] Chance
+Wait, I'm the grass. Where is that at?
+
+
+[3/13/2025 6:26 PM] Chance
+or is that defined out?
+ That should not be...
+
+
+[3/13/2025 6:27 PM] Chance
+Okay, hold on.
+
+
+[3/13/2025 6:27 PM] Chance
+Ah, fine.
+
+
+[3/13/2025 6:27 PM] Autumn
+Uh.
+
+
+[3/13/2025 6:27 PM] Chance
+because like.
+
+
+[3/13/2025 6:27 PM] Autumn
+Mm-hmm.
+
+
+[3/13/2025 6:27 PM] Chance
+So this is joining the, well, so that's all this is doing is converting into...
+
+
+[3/13/2025 6:27 PM] Autumn
+about strategy.
+
+
+[3/13/2025 6:27 PM] Chance
+What this is doing.
+
+
+[3/13/2025 6:27 PM] Autumn
+or oh yeah.
+
+
+[3/13/2025 6:28 PM] Chance
+So.
+
+
+[3/13/2025 6:28 PM] Autumn
+Well, and I see there's the EPSG information like you were talking about Ashland.
+
+
+[3/13/2025 6:28 PM] Chance
+or just explain more is that uh...
+
+
+[3/13/2025 6:28 PM] Ashlyn
+What do you say, autumn?
+
+
+[3/13/2025 6:28 PM] Autumn
+Oh, I was just watching the code block and it said something about that.
+
+
+[3/13/2025 6:28 PM] Autumn
+EPSG
+
+
+[3/13/2025 6:28 PM] Autumn
+data and that's what you were talking about correct like you had to find that.
+
+
+[3/13/2025 6:28 PM] Ashlyn
+how to make them both.
+
+
+[3/13/2025 6:28 PM] Ashlyn
+match.
+
+
+[3/13/2025 6:28 PM] Chance
+Let me try for the RAM. See.
+
+
+[3/13/2025 6:28 PM] Chance
+That is a thing.
+ Thank you very much.
+
+
+[3/13/2025 6:28 PM] Kirstin
+Okay, so the question, so Ashlyn, you're working on the data bias.
+
+
+[3/13/2025 6:28 PM] Kirstin
+And...
+
+
+[3/13/2025 6:28 PM] Kirstin
+Are you working on the Ramsey?
+
+
+[3/13/2025 6:28 PM] Kirstin
+extension.
+
+
+[3/13/2025 6:29 PM] Chance
+Yes.
+
+
+[3/13/2025 6:29 PM] Kirstin
+Okay.
+
+
+[3/13/2025 6:29 PM] Autumn
+Are you sure?
+ Well, like, we should not leave you alone with this.
+
+
+[3/13/2025 6:29 PM] Chance
+I mean, once I get it done, it's good, it's fine, but it's just getting it to that manageable point.
+
+
+[3/13/2025 6:29 PM] Autumn
+Right.
+
+
+[3/13/2025 6:29 PM] Chance
+So I'm trying to think what would be the...
+
+
+[3/13/2025 6:29 PM] Kirstin
+The way that he has it listed in the assignment is that the initial analysis is half of the work.
+
+
+[3/13/2025 6:29 PM] Kirstin
+And then the bias investigation, data and algorithms combined is 30% and then the RAMSE is 20%.
+
+
+[3/13/2025 6:29 PM] Kirstin
+I don't know.
+
+
+[3/13/2025 6:29 PM] Chance
+So I guess I can jump in with me.
+
+
+[3/13/2025 6:29 PM] Kirstin
+I always want to split it up.
+
+
+[3/13/2025 6:29 PM] Ashlyn
+and the...
+
+
+[3/13/2025 6:29 PM] Autumn
+And you're still sharing.
+
+
+[3/13/2025 6:29 PM] Autumn
+William Hart Eale.
+
+
+[3/13/2025 6:29 PM] Kirstin
+Yeah.
+
+
+[3/13/2025 6:29 PM] Ashlyn
+Thanks for watching.
+
+
+[3/13/2025 6:30 PM] Ashlyn
+and then either we all do the rams here,
+ just one of us, but as long as these
+ that I have in this word document.
+
+
+[3/13/2025 6:30 PM] Ashlyn
+the Ramsey's like another step that needs to be done.
+
+
+[3/13/2025 6:30 PM] Ashlyn
+Additionally, to these that are on the list.
+
+
+[3/13/2025 6:30 PM] Kirstin
+Yeah.
+
+
+[3/13/2025 6:30 PM] Kirstin
+So I can do the algorithmic bias if everybody is okay.
+
+
+[3/13/2025 6:30 PM] Kirstin
+with that.
+
+
+[3/13/2025 6:30 PM] Chance
+So I can do...
+
+
+[3/13/2025 6:30 PM] Chance
+I can jump in on part one.
+
+
+[3/13/2025 6:30 PM] Kirstin
+Yeah, it looks like we're going to maybe have to collaborate on part one or something.
+
+
+[3/13/2025 6:30 PM] Chance
+like because I can do
+
+
+[3/13/2025 6:30 PM] Chance
+Yeah, I like.
+
+
+[3/13/2025 6:30 PM] Autumn
+And I was doing some research on that last night.
+ I mean...
+
+
+[3/13/2025 6:30 PM] Autumn
+It's the historical pieces around.
+
+
+[3/13/2025 6:30 PM] Chance
+Well, because a lot of the historical piece, like we can literally just cite the
+
+
+[3/13/2025 6:30 PM] Chance
+Like the...
+
+
+[3/13/2025 6:31 PM] Chance
+U.M.N. or U.M.N's, like.
+
+
+[3/13/2025 6:31 PM] Autumn
+We're done.
+
+
+[3/13/2025 6:31 PM] Chance
+because that's like, we can use that as...
+
+
+[3/13/2025 6:31 PM] Chance
+like kind of summarize what?
+
+
+[3/13/2025 6:31 PM] Chance
+Their mission was what they found.
+
+
+[3/13/2025 6:31 PM] Chance
+and whatnot.
+
+
+[3/13/2025 6:31 PM] Autumn
+Yeah, and I found some historical data on kind of
+
+
+[3/13/2025 6:31 PM] Autumn
+Oh, you know, migration of African Americans from the south into the north and midwest like led to the great migration and
+
+
+[3/13/2025 6:31 PM] Autumn
+essentially competition for economic and housing resources, which then led to the covenants, but um
+
+
+[3/13/2025 6:31 PM] Chance
+So.
+
+
+[3/13/2025 6:31 PM] Chance
+Did date that's an easy one?
+
+
+[3/13/2025 6:31 PM] Autumn
+Thank you.
+
+
+[3/13/2025 6:31 PM] Chance
+racial race like what is
+
+
+[3/13/2025 6:31 PM] Chance
+that's...
+
+
+[3/13/2025 6:32 PM] Chance
+what I'm gonna try to do is
+
+
+[3/13/2025 6:32 PM] Autumn
+So, and I pulled this up so I guess that leaves for visualizations and report writing.
+
+
+[3/13/2025 6:32 PM] Autumn
+Great maps and visualizations, okay.
+
+
+[3/13/2025 6:32 PM] Autumn
+I've never used a G-opanda?
+ Um.
+
+
+[3/13/2025 6:32 PM] Kirstin
+Maybe you there.
+
+
+[3/13/2025 6:32 PM] Autumn
+creation of backups. So I'm like fine.
+
+
+[3/13/2025 6:32 PM] Autumn
+And he said I asked him after class, I mean, if GOP and his install this may be something
+ I can put in chat GBT and ask for some assistance, he said as long as
+
+
+[3/13/2025 6:32 PM] Autumn
+we um.
+
+
+[3/13/2025 6:32 PM] Autumn
+you know, note that that's used. He's fine with that.
+
+
+[3/13/2025 6:32 PM] Autumn
+So...
+
+
+[3/13/2025 6:32 PM] Chance
+Uh.
+
+
+[3/13/2025 6:32 PM] Autumn
+It's a world, but in full transparency, I may reach out.
+
+
+[3/13/2025 6:33 PM] Autumn
+To you all, if I get completely stuck.
+
+
+[3/13/2025 6:33 PM] Autumn
+Is that okay?
+
+
+[3/13/2025 6:33 PM] Kirstin
+That's a team effort.
+
+
+[3/13/2025 6:33 PM] Kirstin
+I said, I said.
+
+
+[3/13/2025 6:33 PM] Autumn
+And you know, once we get things in order because I did some basic analysis, you know, with the data set that he provided and just some, like,
+
+
+[3/13/2025 6:33 PM] Autumn
+like a couple bar graphs in grouping by like income and race.
+
+
+[3/13/2025 6:33 PM] Chance
+Yeah, I was able to do.
+
+
+[3/13/2025 6:33 PM] Kirstin
+Yeah, it mentions.
+
+
+[3/13/2025 6:33 PM] Chance
+I got like a pretty decent, um,
+
+
+[3/13/2025 6:33 PM] Chance
+Cana.
+
+
+[3/13/2025 6:33 PM] Chance
+the.
+
+
+[3/13/2025 6:33 PM] Chance
+support lecturing.
+
+
+[3/13/2025 6:33 PM] Kirstin
+Yeah, it mentions like analyzing the end of them county for like property value patterns lending disparities demographic correlation.
+
+
+[3/13/2025 6:33 PM] Autumn
+Yeah, I did, um, I did a little bit. I mean, I didn't go crazy, but...
+
+
+[3/13/2025 6:33 PM] Chance
+I need to...
+
+
+[3/13/2025 6:33 PM] Autumn
+my my notebook is uploaded to get um like a couple bar graphs it was about like
+
+
+[3/13/2025 6:33 PM] Chance
+I guess this would technically fall under Part 3 as well.
+
+
+[3/13/2025 6:34 PM] Chance
+like modeling bias.
+
+
+[3/13/2025 6:34 PM] Autumn
+I'm sorry which one I had switched screens for a second.
+
+
+[3/13/2025 6:34 PM] Chance
+Um.
+
+
+[3/13/2025 6:34 PM] Autumn
+It's okay, never mind, I'm sorry, I don't mean it like, throw you off.
+
+
+[3/13/2025 6:34 PM] Chance
+So...
+
+
+[3/13/2025 6:34 PM] Chance
+Oh, no, no, no, you're good, you're good.
+ Um.
+
+
+[3/13/2025 6:34 PM] Chance
+This racial reds column.
+
+
+[3/13/2025 6:34 PM] Chance
+What does that look like in the data set?
+
+
+[3/13/2025 6:34 PM] Autumn
+All right, now is...
+
+
+[3/13/2025 6:34 PM] Chance
+Thank you.
+
+
+[3/13/2025 6:34 PM] Chance
+Oh.
+
+
+[3/13/2025 6:34 PM] Autumn
+So that, I don't know what they named it that, it's like basically the context of the covenant itself.
+
+
+[3/13/2025 6:34 PM] Chance
+I don't know what I'm looking for, John.
+
+
+[3/13/2025 6:34 PM] Autumn
+And so that is
+
+
+[3/13/2025 6:34 PM] Chance
+um...
+
+
+[3/13/2025 6:34 PM] Autumn
+And again, I was trying to compare the two hin of hencownie data sets.
+
+
+[3/13/2025 6:34 PM] Chance
+for no lots.
+
+
+[3/13/2025 6:35 PM] Chance
+So that should be...
+
+
+[3/13/2025 6:35 PM] Autumn
+Covenant text in the Ramsey Davis.
+
+
+[3/13/2025 6:35 PM] Chance
+So, and then I'll just get rid of...
+
+
+[3/13/2025 6:35 PM] Chance
+Those.
+
+
+[3/13/2025 6:35 PM] Autumn
+Yeah, what was that lucky? It looks like so document I
+
+
+[3/13/2025 6:35 PM] Autumn
+And I think document number may be the same thing I noticed in the data dictionary that
+ that.
+
+
+[3/13/2025 6:35 PM] Autumn
+researchers doing like the Hinnepin County had added in.
+
+
+[3/13/2025 6:35 PM] Autumn
+a letter in front of the codes.
+
+
+[3/13/2025 6:35 PM] Autumn
+Um...
+
+
+[3/13/2025 6:35 PM] Autumn
+And I can't remember what there's like an A, M, and a T.
+ I can't remember what those stand for.
+ So I'm not a hundred percent.
+
+
+[3/13/2025 6:35 PM] Autumn
+on those columns aligned.
+
+
+[3/13/2025 6:35 PM] Autumn
+but I think that's what happens. I have that raise
+
+
+[3/13/2025 6:35 PM] Kirstin
+What happened?
+
+
+[3/13/2025 6:35 PM] Autumn
+reds, and covenant text align, and then cellar is grantor, and fire is grantee.
+
+
+[3/13/2025 6:36 PM] Autumn
+Is this helpful or am I just battling on?
+
+
+[3/13/2025 6:36 PM] Chance
+so I'm trying to figure out...
+
+
+[3/13/2025 6:36 PM] Kirstin
+Okay, I was going to say I could take a couple of the bullet points in the
+
+
+[3/13/2025 6:36 PM] Kirstin
+first section, but they are actually already in my section, so never mind.
+
+
+[3/13/2025 6:36 PM] Kirstin
+I was going to say, oh, I think the proxy variables and like the lending patterns, like goes with the algorithmic bias, but it's already.
+
+
+[3/13/2025 6:36 PM] Kirstin
+to have GPT or whoever already put that in there, so never mind.
+
+
+[3/13/2025 6:36 PM] Chance
+That's so.
+
+
+[3/13/2025 6:36 PM] Chance
+Like, even if I try to like skip this, it's like, I can't perform the final join.
+
+
+[3/13/2025 6:36 PM] Autumn
+Hmm.
+
+
+[3/13/2025 6:36 PM] Chance
+It...
+
+
+[3/13/2025 6:36 PM] Kirstin
+I'm gonna see you next time.
+
+
+[3/13/2025 6:36 PM] Autumn
+Thank you.
+
+
+[3/13/2025 6:36 PM] Chance
+Because like, what I did was I was like, oh, what I'm going to do is I'm going to...
+
+
+[3/13/2025 6:36 PM] Chance
+like match these up the best I can.
+
+
+[3/13/2025 6:36 PM] Autumn
+Yeah.
+
+
+[3/13/2025 6:36 PM] Chance
+for eliminate slim.
+
+
+[3/13/2025 6:36 PM] Autumn
+Yeah.
+
+
+[3/13/2025 6:37 PM] Chance
+But then it's like, down here, it's like we're creating.
+
+
+[3/13/2025 6:37 PM] Kirstin
+can't see your live stream. Let me go back in.
+
+
+[3/13/2025 6:37 PM] Kirstin
+It crashed.
+
+
+[3/13/2025 6:37 PM] Autumn
+We'll be able to post something I'm wondering if it was realized that all the data sets weren't formed.
+
+
+[3/13/2025 6:37 PM] Autumn
+I move it in the same way.
+
+
+[3/13/2025 6:37 PM] Chance
+We'll...
+
+
+[3/13/2025 6:37 PM] Autumn
+maybe it was. We maybe that's part of it that we just have to
+
+
+[3/13/2025 6:37 PM] Kirstin
+Yes!
+
+
+[3/13/2025 6:37 PM] Autumn
+You mean, yeah, I didn't just figure it out that this code is near.
+
+
+[3/13/2025 6:37 PM] Autumn
+And we can.
+
+
+[3/13/2025 6:37 PM] Autumn
+you know.
+
+
+[3/13/2025 6:37 PM] Kirstin
+I figured it out you guys.
+ is.
+
+
+[3/13/2025 6:37 PM] Autumn
+get not format at the same exact way but we can take the important pieces because you mean
+
+
+[3/13/2025 6:37 PM] Autumn
+even really like things like
+
+
+[3/13/2025 6:37 PM] Autumn
+grant or grantee.
+
+
+[3/13/2025 6:37 PM] Autumn
+I don't think.
+
+
+[3/13/2025 6:37 PM] Chance
+of the plague.
+
+
+[3/13/2025 6:37 PM] Autumn
+are necessary for you know, working at like the the track and
+
+
+[3/13/2025 6:37 PM] Autumn
+the text and even the text. I don't really just kidding me.
+
+
+[3/13/2025 6:37 PM] Chance
+That yeah, that's like
+
+
+[3/13/2025 6:38 PM] Chance
+So.
+
+
+[3/13/2025 6:38 PM] Autumn
+The distance is tracked and the mortgage stuff merged and then we can because all of the mortgage data has like race and ethnicity and that's the the me of everything.
+
+
+[3/13/2025 6:38 PM] Chance
+Mmm.
+
+
+[3/13/2025 6:38 PM] Autumn
+And if I'm wrong, please anyone feel free to correct me, but that's how I'm reading all of this as I sat within a little bit more
+
+
+[3/13/2025 6:38 PM] Chance
+I was like, why is it?
+
+
+[3/13/2025 6:38 PM] Chance
+and those sorts of tracks.
+
+
+[3/13/2025 6:38 PM] Chance
+Let me come back over to here.
+
+
+[3/13/2025 6:38 PM] Chance
+What does covenants with tracks look like?
+
+
+[3/13/2025 6:39 PM] Kirstin
+Thank you very much.
+
+
+[3/13/2025 6:39 PM] Chance
+This is what it looks like.
+
+
+[3/13/2025 6:39 PM] Autumn
+And which one are you looking at?
+
+
+[3/13/2025 6:39 PM] Chance
+the covenants with
+
+
+[3/13/2025 6:39 PM] Chance
+Tracks.
+
+
+[3/13/2025 6:39 PM] Chance
+which is this one. It's a join of
+
+
+[3/13/2025 6:39 PM] Chance
+or hold on any to restart this because they change treeable names.
+
+
+[3/13/2025 6:39 PM] Kirstin
+Thank you.
+
+
+[3/13/2025 6:39 PM] Chance
+The glasses.
+
+
+[3/13/2025 6:39 PM] Autumn
+because.
+
+
+[3/13/2025 6:39 PM] Autumn
+So I'm looking at the state of Minnesota just a whole data set.
+
+
+[3/13/2025 6:40 PM] Autumn
+and then
+
+
+[3/13/2025 6:40 PM] Autumn
+mortgage. Okay, mortgage covenant. That's what he created.
+
+
+[3/13/2025 6:40 PM] Autumn
+I'm wondering if we could take this?
+ Yeah.
+
+
+[3/13/2025 6:40 PM] Chance
+because the...
+
+
+[3/13/2025 6:40 PM] Autumn
+The Minnesota has a census tract call on.
+
+
+[3/13/2025 6:40 PM] Chance
+So not merge, but filter.
+
+
+[3/13/2025 6:40 PM] Chance
+Mortgage data.
+
+
+[3/13/2025 6:40 PM] Autumn
+filter for rams brownie, yeah, and then
+
+
+[3/13/2025 6:40 PM] Autumn
+Mm-hm.
+
+
+[3/13/2025 6:40 PM] Chance
+filter or not.
+
+
+[3/13/2025 6:40 PM] Chance
+Merge based off of census tract or join, or now not join on census tract.
+
+
+[3/13/2025 6:40 PM] Autumn
+But maybe, maybe that's...
+
+
+[3/13/2025 6:40 PM] Autumn
+something.
+
+
+[3/13/2025 6:40 PM] Chance
+because like the census tract would not necessarily
+
+
+[3/13/2025 6:40 PM] Chance
+I kind of think.
+
+
+[3/13/2025 6:41 PM] Autumn
+And there's shout to the Nord and I don't know.
+
+
+[3/13/2025 6:41 PM] Autumn
+Maybe he'll respond.
+
+
+[3/13/2025 6:41 PM] Autumn
+That would be the best thing.
+
+
+[3/13/2025 6:41 PM] Kirstin
+Now if you can, like, sometime before it's due, please.
+
+
+[3/13/2025 6:41 PM] Chance
+Yeah.
+
+
+[3/13/2025 6:41 PM] Autumn
+Again, should we talk about potentially?
+
+
+[3/13/2025 6:41 PM] Autumn
+a plan B for getting?
+
+
+[3/13/2025 6:41 PM] Autumn
+Ramsey County data in a different way and how to look at it?
+
+
+[3/13/2025 6:41 PM] Chance
+So that's why I'm like trying to like mentally go through right now because I'm like if we
+
+
+[3/13/2025 6:41 PM] Chance
+Try to think like what we can throw out from this code.
+
+
+[3/13/2025 6:41 PM] Chance
+We're holding on.
+ Um...
+
+
+[3/13/2025 6:41 PM] Chance
+because I'm like, if we, uh,
+
+
+[3/13/2025 6:42 PM] Chance
+This gives us these census tracts.
+
+
+[3/13/2025 6:42 PM] Chance
+um...
+
+
+[3/13/2025 6:42 PM] Chance
+Thanks.
+
+
+[3/13/2025 6:42 PM] Chance
+Mm.
+
+
+[3/13/2025 6:42 PM] Kirstin
+more going to prove all right.
+
+
+[3/13/2025 6:42 PM] Chance
+like.
+
+
+[3/13/2025 6:42 PM] Chance
+I want to see if this is the same.
+
+
+[3/13/2025 6:42 PM] Chance
+for a little while, I guess I need to do that after...
+
+
+[3/13/2025 6:42 PM] Autumn
+So, Ashlyn, I've...
+
+
+[3/13/2025 6:43 PM] Autumn
+the link pulled up, I'll just put my name as number four if that's okay with you.
+ Thanks for creating this.
+
+
+[3/13/2025 6:43 PM] Kirstin
+It does make it a little bit easier like I feel like the assignment is all over the place.
+
+
+[3/13/2025 6:43 PM] Autumn
+I want to read it so many times.
+
+
+[3/13/2025 6:43 PM] Kirstin
+Like, what are you wanting us to do?
+
+
+[3/13/2025 6:43 PM] Ashlyn
+What's going on with ADHD or something?
+
+
+[3/13/2025 6:43 PM] Kirstin
+I don't know. He's like not on the really good instructions at all.
+
+
+[3/13/2025 6:43 PM] Chance
+which like i think is fine but like
+
+
+[3/13/2025 6:43 PM] Chance
+But it's like the plan, the date, the Ramsey's County extension early, it's like.
+
+
+[3/13/2025 6:43 PM] Chance
+Data collection takes time, it's like, yes, the data collection takes time because like, it's not.
+
+
+[3/13/2025 6:43 PM] Chance
+And I understand that like it's a lot part of it is like thinking on our feet and like it's not always gonna be like an easy
+
+
+[3/13/2025 6:43 PM] Chance
+And like maybe that's part of the challenge with this one is it like
+
+
+[3/13/2025 6:43 PM] Autumn
+Right.
+
+
+[3/13/2025 6:43 PM] Chance
+We're supposed to kind of like, think outside the box,
+ I'm like, how to...
+
+
+[3/13/2025 6:43 PM] Chance
+Get that information.
+
+
+[3/13/2025 6:44 PM] Kirstin
+Well, I'm not ready for outside the box.
+
+
+[3/13/2025 6:44 PM] Chance
+But I'm like, I'm like,
+
+
+[3/13/2025 6:44 PM] Chance
+trying to figure out
+
+
+[3/13/2025 6:44 PM] Chance
+What element of this, I guess?
+
+
+[3/13/2025 6:44 PM] Autumn
+That mean you're in a different level of approval interest rates.
+
+
+[3/13/2025 6:44 PM] Chance
+Um, hold on.
+
+
+[3/13/2025 6:44 PM] Autumn
+And I'm also looking at pamphlet, pamphlet.
+
+
+[3/13/2025 6:44 PM] Chance
+Short cut to
+
+
+[3/13/2025 6:44 PM] Chance
+Yes, kid.
+
+
+[3/13/2025 6:44 PM] Chance
+tree.
+
+
+[3/13/2025 6:44 PM] Chance
+I'm just going to comment out things until it
+
+
+[3/13/2025 6:45 PM] Kirstin
+I do that. Get rid of everything until I know what I need it.
+
+
+[3/13/2025 6:45 PM] Chance
+Bye.
+
+
+[3/13/2025 6:45 PM] Chance
+Let's just purr-tract.
+
+
+[3/13/2025 6:45 PM] Autumn
+Hmm.
+
+
+[3/13/2025 6:45 PM] Chance
+But click or jump.
+
+
+[3/13/2025 6:45 PM] Chance
+I don't...
+
+
+[3/13/2025 6:45 PM] Autumn
+I forgot, I'm really going through that.
+
+
+[3/13/2025 6:45 PM] Autumn
+I'm home.
+
+
+[3/13/2025 6:45 PM] Autumn
+And I'm sorry if I missed this. Do we have a Google doc already to start like putting?
+
+
+[3/13/2025 6:45 PM] Autumn
+pieces on there.
+
+
+[3/13/2025 6:45 PM] Chance
+I haven't made one.
+
+
+[3/13/2025 6:46 PM] Chance
+I don't know if anybody else has?
+
+
+[3/13/2025 6:46 PM] Kirstin
+Not yet.
+
+
+[3/13/2025 6:46 PM] Autumn
+We're not.
+
+
+[3/13/2025 6:46 PM] Autumn
+I made sure the slides were cleaned up.
+
+
+[3/13/2025 6:46 PM] Autumn
+But do we do we want to do that again?
+ So or Ashlyn were you thinking
+ because you created this one drive document?
+ We put our pieces under our section on here.
+
+
+[3/13/2025 6:46 PM] Chance
+I think if we just use Google Doc again, just because otherwise for us to meet the
+
+
+[3/13/2025 6:46 PM] Chance
+the expectations of the assignment like we have to use
+
+
+[3/13/2025 6:46 PM] Chance
+the tracking feature of
+
+
+[3/13/2025 6:46 PM] Autumn
+Thank you.
+
+
+[3/13/2025 6:46 PM] Kirstin
+And so annoying and bored like
+
+
+[3/13/2025 6:46 PM] Kirstin
+Yeah.
+
+
+[3/13/2025 6:46 PM] Chance
+So I think Google Doc is just a cleaner.
+ It's more legible, more...
+
+
+[3/13/2025 6:46 PM] Kirstin
+Yeah, the track changes in word is really irritating.
+
+
+[3/13/2025 6:46 PM] Chance
+really ugly, you can say that ugly.
+
+
+[3/13/2025 6:47 PM] Kirstin
+it's so crazy. Yeah, it does.
+
+
+[3/13/2025 6:47 PM] Chance
+I'm not a teacher.
+
+
+[3/13/2025 6:47 PM] Chance
+Ooooooo!
+
+
+[3/13/2025 6:47 PM] Chance
+Look, I don't need the...
+
+
+[3/13/2025 6:47 PM] Chance
+But if I just comment out all of this, and then run the whole thing, now they need the...
+
+
+[3/13/2025 6:47 PM] Chance
+I need that covenant stuff.
+
+
+[3/13/2025 6:47 PM] Autumn
+What's in them?
+
+
+[3/13/2025 6:47 PM] Autumn
+Hmm.
+
+
+[3/13/2025 6:47 PM] Chance
+Because this is like converting.
+
+
+[3/13/2025 6:47 PM] Autumn
+I'm gonna... Yeah!
+
+
+[3/13/2025 6:47 PM] Autumn
+And so there's nothing about covenants in the mortgage data.
+
+
+[3/13/2025 6:47 PM] Chance
+no because it's like a dick
+
+
+[3/13/2025 6:47 PM] Chance
+It's like the mortgage data is
+
+
+[3/13/2025 6:48 PM] Chance
+just like the ledger of
+
+
+[3/13/2025 6:48 PM] Autumn
+Yeah.
+
+
+[3/13/2025 6:48 PM] Autumn
+I never know.
+
+
+[3/13/2025 6:48 PM] Chance
+could like, what are final, the final data set is basically just?
+
+
+[3/13/2025 6:48 PM] Chance
+like.
+
+
+[3/13/2025 6:48 PM] Autumn
+Yeah.
+
+
+[3/13/2025 6:48 PM] Autumn
+Thank you.
+
+
+[3/13/2025 6:48 PM] Chance
+All right, I'm back.
+
+
+[3/13/2025 6:48 PM] Chance
+Oh no.
+
+
+[3/13/2025 6:49 PM] Chance
+Liberty.
+
+
+[3/13/2025 6:49 PM] Chance
+different if...
+
+
+[3/13/2025 6:51 PM] Kirstin
+So in the student notebook, he's merged the
+
+
+[3/13/2025 6:51 PM] Kirstin
+of an at data.
+
+
+[3/13/2025 6:51 PM] Kirstin
+and the Minnesota data.
+
+
+[3/13/2025 6:51 PM] Kirstin
+Is it done correctly?
+
+
+[3/13/2025 6:51 PM] Chance
+So.
+
+
+[3/13/2025 6:51 PM] Kirstin
+because it says applications interact with covenants zero.
+
+
+[3/13/2025 6:51 PM] Chance
+Bye.
+
+
+[3/13/2025 6:51 PM] Kirstin
+practice cabinets, approval rates as a null value at the end.
+
+
+[3/13/2025 6:51 PM] Kirstin
+Delay!
+
+
+[3/13/2025 6:51 PM] Kirstin
+What?
+
+
+[3/13/2025 6:51 PM] Chance
+Oh, well, because that's tracks with covenants would be...
+
+
+[3/13/2025 6:51 PM] Chance
+I want to say that that is based off of...
+
+
+[3/13/2025 6:51 PM] Chance
+Yeah, it was approved, which is a Boolean value.
+
+
+[3/13/2025 6:51 PM] Chance
+So that's why it's not a number.
+
+
+[3/13/2025 6:52 PM] Kirstin
+Oh, good. Okay. It looks like a little word. Here we go.
+
+
+[3/13/2025 6:52 PM] Kirstin
+But for the algorithmic bias section, I would be using this combined data.
+
+
+[3/13/2025 6:52 PM] Chance
+which is.
+
+
+[3/13/2025 6:52 PM] Kirstin
+that is a result of this notebook, right?
+
+
+[3/13/2025 6:52 PM] Chance
+Yes, but the combined data is just the mortgage covenant data.
+
+
+[3/13/2025 6:52 PM] Kirstin
+Okay.
+
+
+[3/13/2025 6:52 PM] Chance
+Like it, it's the data set that we've already received.
+
+
+[3/13/2025 6:52 PM] Kirstin
+Oh, what the hell?
+
+
+[3/13/2025 6:52 PM] Autumn
+which is the henna pin and
+
+
+[3/13/2025 6:52 PM] Kirstin
+in the hand of Pemka.
+
+
+[3/13/2025 6:52 PM] Autumn
+Yeah.
+
+
+[3/13/2025 6:52 PM] Autumn
+It's for Ram's ebbs.
+
+
+[3/13/2025 6:52 PM] Chance
+It's, yeah, it's, it's.
+
+
+[3/13/2025 6:52 PM] Autumn
+being misbehaving.
+
+
+[3/13/2025 6:52 PM] Autumn
+But I'll say.
+
+
+[3/13/2025 6:53 PM] Autumn
+in a recorded chat.
+
+
+[3/13/2025 6:53 PM] Chance
+like I wonder what this
+
+
+[3/13/2025 6:53 PM] Chance
+Like these, Chio.
+
+
+[3/13/2025 6:53 PM] Chance
+like this Geo Address and Geo
+
+
+[3/13/2025 6:53 PM] Chance
+Gocd distance, I don't know what those mean.
+
+
+[3/13/2025 6:53 PM] Autumn
+That's how that was looking at me, and I didn't know if...
+
+
+[3/13/2025 6:53 PM] Autumn
+G.O.C.D. Distance was the same.
+
+
+[3/13/2025 6:54 PM] Autumn
+as distance itself and if we could somehow use that.
+
+
+[3/13/2025 6:54 PM] Chance
+but it's like all the values in both of those are blank.
+
+
+[3/13/2025 6:54 PM] Chance
+because see that's the other thing that's like that's annoying about this is like
+
+
+[3/13/2025 6:54 PM] Chance
+Like, I would love to...
+
+
+[3/13/2025 6:54 PM] Chance
+just like.
+
+
+[3/13/2025 6:54 PM] Chance
+know what actually let me double check
+
+
+[3/13/2025 6:54 PM] Chance
+um
+
+
+[3/13/2025 6:54 PM] Chance
+Kid, I'm a little bit scared
+
+
+[3/13/2025 6:54 PM] Chance
+Maps, dear. Uh...
+
+
+[3/13/2025 6:54 PM] Chance
+for racial covenants in Minnesota and beyond.
+
+
+[3/13/2025 6:55 PM] Chance
+So how does all of those mean?
+
+
+[3/13/2025 6:55 PM] Chance
+I'm looking at...
+
+
+[3/13/2025 6:55 PM] Autumn
+Okay, where are you at working?
+ Yeah.
+
+
+[3/13/2025 6:55 PM] Chance
+This um...
+
+
+[3/13/2025 6:55 PM] Autumn
+Okay, thank you. Yes, I just didn't explore far enough.
+
+
+[3/13/2025 6:55 PM] Chance
+Well, because that's where, like, that's whenever I responded to Abby's discussion board.
+
+
+[3/13/2025 6:55 PM] Autumn
+Mm hmm.
+
+
+[3/13/2025 6:55 PM] Chance
+This is where I was getting my data for Hennepin County.
+
+
+[3/13/2025 6:55 PM] Autumn
+Right.
+
+
+[3/13/2025 6:55 PM] Chance
+I was like, hey, yeah, this is strange.
+
+
+[3/13/2025 6:56 PM] Autumn
+Oh, there it is at the bottom, I didn't scroll down enough.
+
+
+[3/13/2025 6:56 PM] Autumn
+Geocoded Address of Parcel Centroid.
+
+
+[3/13/2025 6:56 PM] Kirstin
+You can.
+
+
+[3/13/2025 6:56 PM] Chance
+Oh, tch, tch.
+
+
+[3/13/2025 6:56 PM] Chance
+I wonder if I need to...
+
+
+[3/13/2025 6:56 PM] Chance
+I don't know what.
+
+
+[3/13/2025 6:57 PM] Chance
+So there's the GeoJSON file.
+
+
+[3/13/2025 6:57 PM] Chance
+Let me try downloading this.
+
+
+[3/13/2025 6:58 PM] Chance
+Let me try something else.
+ So I just downloaded the GeoJson file.
+
+
+[3/13/2025 6:58 PM] Chance
+Listen me.
+
+
+[3/13/2025 6:58 PM] Chance
+This will probably just have all of the same information and a cup text.
+
+
+[3/13/2025 6:58 PM] Kirstin
+Now I'm sure it's my computer.
+
+
+[3/13/2025 6:58 PM] Kirstin
+Perfect.
+
+
+[3/13/2025 6:58 PM] Chance
+This is literally just all the same information, though.
+
+
+[3/13/2025 6:59 PM] Chance
+What is...
+
+
+[3/13/2025 6:59 PM] Chance
+Johnny Pan?
+
+
+[3/13/2025 7:00 PM] Kirstin
+Okay, what are you um?
+
+
+[3/13/2025 7:00 PM] Kirstin
+What are you trying to figure out exactly?
+
+
+[3/13/2025 7:00 PM] Chance
+I was trying to see if...
+
+
+[3/13/2025 7:00 PM] Chance
+using a like so the
+
+
+[3/13/2025 7:00 PM] Chance
+Um.
+
+
+[3/13/2025 7:01 PM] Chance
+The GitHub that I pulled the Ramsey County information from.
+
+
+[3/13/2025 7:01 PM] Chance
+mention that like it, there are different file formats available for each
+ and I was like, oh, maybe like...
+
+
+[3/13/2025 7:01 PM] Chance
+Maybe we're just using the wrong type of file, like maybe we don't need to be using.
+
+
+[3/13/2025 7:01 PM] Chance
+um, let's see SV, but it's like it's all the same information and
+
+
+[3/13/2025 7:01 PM] Chance
+Like the, um...
+
+
+[3/13/2025 7:01 PM] Chance
+Oh wait, maybe not.
+
+
+[3/13/2025 7:01 PM] Chance
+Hold up, we might be cooking.
+
+
+[3/13/2025 7:01 PM] Chance
+because...
+
+
+[3/13/2025 7:01 PM] Chance
+Geometry is not something that's in the...
+
+
+[3/13/2025 7:01 PM] Chance
+This might be what we need to use.
+
+
+[3/13/2025 7:01 PM] Chance
+Okay, hold on.
+
+
+[3/13/2025 7:01 PM] Chance
+thing we might be on the right track now.
+
+
+[3/13/2025 7:01 PM] Chance
+I hope we're on the right track.
+
+
+[3/13/2025 7:02 PM] Chance
+Thank you.
+
+
+[3/13/2025 7:02 PM] Kirstin
+Yeah, the dataset from the government, whatever website.
+
+
+[3/13/2025 7:02 PM] Kirstin
+the Consumer Financial Protection Bureau's website.
+
+
+[3/13/2025 7:02 PM] Kirstin
+For Minnesota, it does contain the census tract numbers and the county codes for all of the counties including Ramsey.
+
+
+[3/13/2025 7:02 PM] Chance
+Yeah.
+
+
+[3/13/2025 7:02 PM] Chance
+Like what?
+
+
+[3/13/2025 7:02 PM] Chance
+So what I'm going to try to do right now is I'm going to
+
+
+[3/13/2025 7:02 PM] Chance
+Instead of reading and...
+
+
+[3/13/2025 7:02 PM] Chance
+the CSV.
+
+
+[3/13/2025 7:02 PM] Chance
+I'm going to read in this Geo.
+
+
+[3/13/2025 7:02 PM] Chance
+Jason Fiehl.
+
+
+[3/13/2025 7:02 PM] Chance
+How do I do that?
+
+
+[3/13/2025 7:02 PM] Chance
+for me.
+
+
+[3/13/2025 7:02 PM] Chance
+and Gio.
+ Cheers, Anna.
+
+
+[3/13/2025 7:02 PM] Chance
+Are you so, Anna?
+
+
+[3/13/2025 7:03 PM] Chance
+That's part of G.O. Pandas.
+
+
+[3/13/2025 7:03 PM] Chance
+I think.
+
+
+[3/13/2025 7:03 PM] Chance
+those she opandals, that was GPD.
+
+
+[3/13/2025 7:03 PM] Chance
+So let's do covenant.
+
+
+[3/13/2025 7:03 PM] Chance
+GPD, duh.
+
+
+[3/13/2025 7:03 PM] Chance
+Read, I'll.
+
+
+[3/13/2025 7:03 PM] Chance
+Not that slush.
+
+
+[3/13/2025 7:03 PM] Chance
+to be a slash.
+
+
+[3/13/2025 7:04 PM] Chance
+Okay.
+
+
+[3/13/2025 7:04 PM] Chance
+Because yeah, this is...
+
+
+[3/13/2025 7:04 PM] Chance
+something that was not there before.
+
+
+[3/13/2025 7:04 PM] Chance
+I think that the original like the CSV data set.
+
+
+[3/13/2025 7:04 PM] Chance
+ends here.
+
+
+[3/13/2025 7:04 PM] Kirstin
+Peace.
+
+
+[3/13/2025 7:04 PM] Chance
+because what geometry is doing is.
+
+
+[3/13/2025 7:04 PM] Chance
+basically creating a
+
+
+[3/13/2025 7:04 PM] Chance
+like a block.
+
+
+[3/13/2025 7:04 PM] Chance
+within which.
+
+
+[3/13/2025 7:04 PM] Chance
+It exists for them, I think.
+
+
+[3/13/2025 7:04 PM] Chance
+Okay, so there's that, now I need to modify...
+
+
+[3/13/2025 7:05 PM] Chance
+This...
+
+
+[3/13/2025 7:05 PM] Chance
+because this is already in latitude and...
+
+
+[3/13/2025 7:05 PM] Chance
+for all.
+
+
+[3/13/2025 7:05 PM] Autumn
+Hey! Okay, here's something else if I may.
+
+
+[3/13/2025 7:05 PM] Autumn
+Bye!
+
+
+[3/13/2025 7:05 PM] Autumn
+Put the other one up.
+
+
+[3/13/2025 7:05 PM] Autumn
+Okay, the mortgage covenant data and the Ramsey data is what were.
+
+
+[3/13/2025 7:05 PM] Autumn
+essentially trying to get correct.
+
+
+[3/13/2025 7:05 PM] Chance
+Ehhhhhh!
+
+
+[3/13/2025 7:05 PM] Chance
+For RIMs, yes.
+
+
+[3/13/2025 7:05 PM] Autumn
+Yeah, okay, because they both have census tract.
+
+
+[3/13/2025 7:05 PM] Autumn
+I'm just putting out there, let me drop the CSV because I just put both of those in chat
+ GPT and ask if they could merge the data.
+ So maybe we can just use the CSV and not deal with a bunch of code and we have it all
+ in one place.
+
+
+[3/13/2025 7:06 PM] Kirstin
+Just a little bit.
+
+
+[3/13/2025 7:06 PM] Autumn
+Or does that sound horrible?
+ I just got real quiet.
+ Maybe scared.
+
+
+[3/13/2025 7:06 PM] Kirstin
+No, you're good.
+
+
+[3/13/2025 7:06 PM] Autumn
+Oh my God.
+
+
+[3/13/2025 7:06 PM] Kirstin
+Oh my God, I don't know.
+
+
+[3/13/2025 7:06 PM] Chance
+I'm
+
+
+[3/13/2025 7:06 PM] Kirstin
+I guess we'll receive.
+
+
+[3/13/2025 7:06 PM] Chance
+Looking into the web.
+
+
+[3/13/2025 7:06 PM] Autumn
+Because it is, you know, as long as we disclose or I will disclose that that's what I did.
+
+
+[3/13/2025 7:06 PM] Autumn
+Thank you.
+
+
+[3/13/2025 7:06 PM] Chance
+So.
+
+
+[3/13/2025 7:06 PM] Chance
+shall it shoot you?
+
+
+[3/13/2025 7:06 PM] Autumn
+Thank you.
+
+
+[3/13/2025 7:06 PM] Kirstin
+There's like just too much data listed in this.
+
+
+[3/13/2025 7:06 PM] Kirstin
+I'll check.
+
+
+[3/13/2025 7:06 PM] Autumn
+And they said there's a lot.
+
+
+[3/13/2025 7:06 PM] Kirstin
+I'm like, what?
+
+
+[3/13/2025 7:06 PM] Chance
+So, like, don't need...
+
+
+[3/13/2025 7:06 PM] Kirstin
+What is it you want me to do?
+
+
+[3/13/2025 7:07 PM] Chance
+I think?
+
+
+[3/13/2025 7:07 PM] Chance
+because we don't have to convert it.
+
+
+[3/13/2025 7:07 PM] Chance
+because this is already latitude and longitude, I think.
+
+
+[3/13/2025 7:07 PM] Autumn
+says my files too big and I'm not a nitro member.
+
+
+[3/13/2025 7:07 PM] Kirstin
+Of course.
+
+
+[3/13/2025 7:07 PM] Chance
+So.
+
+
+[3/13/2025 7:07 PM] Chance
+All of these are...
+
+
+[3/13/2025 7:07 PM] Autumn
+Okay. This is me.
+
+
+[3/13/2025 7:07 PM] Chance
+Multi-polygon.
+
+
+[3/13/2025 7:08 PM] Autumn
+And I can email her.
+
+
+[3/13/2025 7:08 PM] Kirstin
+That would work.
+
+
+[3/13/2025 7:08 PM] Autumn
+Yeah, I shouldn't...
+
+
+[3/13/2025 7:08 PM] Autumn
+if you all want to look at it because it it did merge the Ramsey stuff with the Morgan
+
+
+[3/13/2025 7:08 PM] Autumn
+covenant data that was already created.
+
+
+[3/13/2025 7:08 PM] Autumn
+with this code.
+
+
+[3/13/2025 7:08 PM] Autumn
+Okay, Ashlyn.
+
+
+[3/13/2025 7:08 PM] Ashlyn
+Shhh!
+
+
+[3/13/2025 7:08 PM] Autumn
+Are you there?
+
+
+[3/13/2025 7:08 PM] Autumn
+Okay, I'm sorry, because I'm doing share and I'm just typing in names for our MTSU email addresses.
+
+
+[3/13/2025 7:09 PM] Autumn
+Which email do I use? Ashlam Strickland or Brown?
+
+
+[3/13/2025 7:09 PM] Autumn
+or either.
+
+
+[3/13/2025 7:09 PM] Ashlyn
+like the Emo with the letters.
+
+
+[3/13/2025 7:09 PM] Autumn
+Yeah.
+
+
+[3/13/2025 7:09 PM] Ashlyn
+if it's ASB6E.
+
+
+[3/13/2025 7:09 PM] Autumn
+Oh, I'm sorry. Is it ASB6P?
+
+
+[3/13/2025 7:09 PM] Autumn
+at M.T. mail. Okay, cool.
+
+
+[3/13/2025 7:09 PM] Ashlyn
+Thank you.
+
+
+[3/13/2025 7:10 PM] Autumn
+Okay, I just shared a link with you all.
+
+
+[3/13/2025 7:10 PM] Autumn
+the MTSU email and I can put it somewhere else like I said it just wouldn't let me drop it in this
+ chat it said the file was too big
+
+
+[3/13/2025 7:11 PM] Chance
+We really not need to.
+
+
+[3/13/2025 7:11 PM] Chance
+me coming up.
+
+
+[3/13/2025 7:15 PM] Chance
+is this not the same?
+
+
+[3/13/2025 7:15 PM] Chance
+eyes.
+
+
+[3/13/2025 7:15 PM] Kirstin
+Pure cool.
+
+
+[3/13/2025 7:15 PM] Chance
+So after consulting with the Oracle, I think I...
+
+
+[3/13/2025 7:15 PM] Chance
+I think I...
+
+
+[3/13/2025 7:15 PM] Chance
+fixed it.
+
+
+[3/13/2025 7:15 PM] Chance
+So.
+
+
+[3/13/2025 7:15 PM] Chance
+Um.
+
+
+[3/13/2025 7:15 PM] Chance
+Run all.
+
+
+[3/13/2025 7:15 PM] Chance
+Why did it turn?
+
+
+[3/13/2025 7:15 PM] Chance
+So it's a different size, so I guess that's a good sign.
+
+
+[3/13/2025 7:15 PM] Chance
+I think I made...
+
+
+[3/13/2025 7:15 PM] Chance
+Do it, do it, I think it did it.
+
+
+[3/13/2025 7:16 PM] Chance
+Holy shit, I think, I think I did it.
+
+
+[3/13/2025 7:16 PM] Kirstin
+Yay!
+
+
+[3/13/2025 7:16 PM] Chance
+Thank you.
+
+
+[3/13/2025 7:16 PM] Autumn
+Way above.
+
+
+[3/13/2025 7:16 PM] Chance
+So.
+
+
+[3/13/2025 7:16 PM] Chance
+the.
+
+
+[3/13/2025 7:16 PM] Chance
+Hold on, before I forget.
+
+
+[3/13/2025 7:16 PM] Chance
+going to you all.
+
+
+[3/13/2025 7:16 PM] Chance
+I'm so proud of you.
+
+
+[3/13/2025 7:16 PM] Chance
+inside with the...
+
+
+[3/13/2025 7:16 PM] Chance
+Shatchy PT.
+
+
+[3/13/2025 7:16 PM] Chance
+And then also, I guess, I can...
+
+
+[3/13/2025 7:16 PM] Chance
+Duh!
+
+
+[3/13/2025 7:16 PM] Chance
+tch, tch, tch, tch.
+
+
+[3/13/2025 7:16 PM] Chance
+So when it's slim actually needed.
+
+
+[3/13/2025 7:17 PM] Chance
+No.
+
+
+[3/13/2025 7:17 PM] Chance
+No, it is not needed.
+
+
+[3/13/2025 7:17 PM] Chance
+Okay, so.
+
+
+[3/13/2025 7:17 PM] Chance
+We read in the...
+
+
+[3/13/2025 7:17 PM] Chance
+or the GeoJSON file.
+
+
+[3/13/2025 7:17 PM] Chance
+read and...
+
+
+[3/13/2025 7:17 PM] Chance
+Cheers and file.
+
+
+[3/13/2025 7:17 PM] Chance
+Um.
+
+
+[3/13/2025 7:17 PM] Chance
+make sure that it is
+
+
+[3/13/2025 7:17 PM] Chance
+I can delete this as well.
+
+
+[3/13/2025 7:17 PM] Chance
+Allah.
+
+
+[3/13/2025 7:17 PM] Chance
+So check and make sure that it is the correct file type.
+
+
+[3/13/2025 7:17 PM] Chance
+the correct format type.
+
+
+[3/13/2025 7:17 PM] Chance
+Bum, bum, bum, okay, we're going to go side by side here.
+
+
+[3/13/2025 7:18 PM] Chance
+So then,
+
+
+[3/13/2025 7:18 PM] Chance
+print the original records.
+
+
+[3/13/2025 7:18 PM] Chance
+in this case there are only four hundred or five.
+
+
+[3/13/2025 7:18 PM] Chance
+500.
+
+
+[3/13/2025 7:18 PM] Chance
+I'm just going to say 5,500 records.
+ That is from the
+
+
+[3/13/2025 7:18 PM] Chance
+Um.
+
+
+[3/13/2025 7:18 PM] Autumn
+Ramsey, which is what you said it had
+
+
+[3/13/2025 7:18 PM] Autumn
+Anyway, right?
+
+
+[3/13/2025 7:18 PM] Chance
+the Ramsey data set.
+
+
+[3/13/2025 7:18 PM] Autumn
+mm hmm
+
+
+[3/13/2025 7:18 PM] Chance
+So then we convert it to...
+
+
+[3/13/2025 7:18 PM] Chance
+this other
+
+
+[3/13/2025 7:18 PM] Chance
+file in the Southern type.
+
+
+[3/13/2025 7:18 PM] Chance
+to match the census tracks.
+
+
+[3/13/2025 7:18 PM] Chance
+And then we have to create centroid.
+
+
+[3/13/2025 7:19 PM] Chance
+That hole on my head said just like.
+
+
+[3/13/2025 7:19 PM] Chance
+did something, I don't know.
+ So then we have to
+
+
+[3/13/2025 7:19 PM] Chance
+because all of the...
+ Um.
+
+
+[3/13/2025 7:19 PM] Chance
+All of the...
+
+
+[3/13/2025 7:19 PM] Chance
+Geometry use? So.
+
+
+[3/13/2025 7:19 PM] Chance
+What this code is doing?
+
+
+[3/13/2025 7:19 PM] Chance
+is is taking the x and the y coordinate.
+
+
+[3/13/2025 7:19 PM] Chance
+and basically
+
+
+[3/13/2025 7:19 PM] Chance
+creating a range and then lake.
+
+
+[3/13/2025 7:19 PM] Chance
+I'm interpreting it, it's...
+
+
+[3/13/2025 7:19 PM] Chance
+reading.
+
+
+[3/13/2025 7:19 PM] Chance
+the ranges, and then it is.
+
+
+[3/13/2025 7:19 PM] Chance
+basically assigning the census tract based off of
+
+
+[3/13/2025 7:19 PM] Chance
+the points position.
+
+
+[3/13/2025 7:20 PM] Chance
+because it's given an x and a y, so it's one dot.
+
+
+[3/13/2025 7:20 PM] Chance
+on a plane.
+
+
+[3/13/2025 7:20 PM] Chance
+this GeoJson how it's structured is it is a
+
+
+[3/13/2025 7:20 PM] Chance
+collection of points to create a collection of shapes.
+
+
+[3/13/2025 7:20 PM] Chance
+You all can hear me, right?
+
+
+[3/13/2025 7:20 PM] Kirstin
+Yes.
+
+
+[3/13/2025 7:20 PM] Chance
+Okay. Um, so it's like it's.
+
+
+[3/13/2025 7:20 PM] Chance
+It's a collection of points that create a, uh, that create.
+
+
+[3/13/2025 7:20 PM] Chance
+shapes that are within a collection.
+
+
+[3/13/2025 7:20 PM] Chance
+So like, looking at this data, we have...
+
+
+[3/13/2025 7:20 PM] Chance
+like this is one point, here's another point.
+
+
+[3/13/2025 7:20 PM] Chance
+And if we go over to
+
+
+[3/13/2025 7:20 PM] Chance
+like, there's eventually, like, probably,
+
+
+[3/13/2025 7:20 PM] Chance
+I get creates.
+
+
+[3/13/2025 7:21 PM] Chance
+a sheep that's the only way I can.
+
+
+[3/13/2025 7:21 PM] Kirstin
+Yeah, I like creates the track or whatever.
+
+
+[3/13/2025 7:21 PM] Ashlyn
+Ashlyn disconnected
+
+
+[3/13/2025 7:21 PM] Chance
+I like it create. Yeah, it creates like the box around like what would be classifier and like
+ Oh.
+
+
+[3/13/2025 7:21 PM] Chance
+Oh, that's fine.
+
+
+[3/13/2025 7:21 PM] Kirstin
+Thanks for happening.
+
+
+[3/13/2025 7:21 PM] Chance
+So.
+
+
+[3/13/2025 7:21 PM] Chance
+actually had to drop out, but we're good.
+ Um.
+
+
+[3/13/2025 7:21 PM] Chance
+What we're doing here is we are getting the centroid, so finding the center.
+
+
+[3/13/2025 7:21 PM] Chance
+point, I guess.
+
+
+[3/13/2025 7:21 PM] Chance
+um...
+
+
+[3/13/2025 7:21 PM] Chance
+tadaaaaah!
+
+
+[3/13/2025 7:21 PM] Chance
+Um, so it is.
+
+
+[3/13/2025 7:22 PM] Chance
+Converting, it's finding the middle point or like the middle most point for each of these entries in
+
+
+[3/13/2025 7:22 PM] Chance
+the, uh,
+
+
+[3/13/2025 7:22 PM] Chance
+like each row like it's finding the middlemost point
+
+
+[3/13/2025 7:22 PM] Chance
+and assigning it to the relevant.
+
+
+[3/13/2025 7:22 PM] Chance
+This is like how I think it's working.
+
+
+[3/13/2025 7:22 PM] Chance
+And then it's creating the spatial join.
+
+
+[3/13/2025 7:22 PM] Chance
+of the...
+
+
+[3/13/2025 7:22 PM] Chance
+the, um,
+
+
+[3/13/2025 7:22 PM] Chance
+the geopandist data with the
+
+
+[3/13/2025 7:22 PM] Chance
+ramsy tracks
+
+
+[3/13/2025 7:22 PM] Chance
+that were created.
+
+
+[3/13/2025 7:22 PM] Chance
+up here, which is like where we filtered out the
+
+
+[3/13/2025 7:22 PM] Chance
+Um.
+
+
+[3/13/2025 7:22 PM] Chance
+like the census tracts for like one, two, three.
+
+
+[3/13/2025 7:22 PM] Chance
+So then...
+
+
+[3/13/2025 7:22 PM] Chance
+It's doing the summary, what is this?
+
+
+[3/13/2025 7:23 PM] Chance
+running mismatch. Okay, I need to figure that out. I don't know what's going on with that.
+ What is that supposed to look like? Oh, no, that is normal. Okay, that is...
+
+
+[3/13/2025 7:23 PM] Chance
+So then we're able to...
+
+
+[3/13/2025 7:23 PM] Chance
+Run.
+
+
+[3/13/2025 7:23 PM] Chance
+This?
+
+
+[3/13/2025 7:23 PM] Chance
+since it's tracks after...
+
+
+[3/13/2025 7:23 PM] Chance
+his mortgage slim come in.
+
+
+[3/13/2025 7:23 PM] Chance
+So it's this right here.
+
+
+[3/13/2025 7:23 PM] Chance
+Okay, so then this is...
+
+
+[3/13/2025 7:23 PM] Chance
+This is going to look the same because it's just
+
+
+[3/13/2025 7:23 PM] Chance
+taking the, it's just cleaning through the,
+
+
+[3/13/2025 7:23 PM] Chance
+the mortgage slim thing.
+
+
+[3/13/2025 7:23 PM] Chance
+And then we create this new thing.
+
+
+[3/13/2025 7:23 PM] Chance
+Thank you very much.
+
+
+[3/13/2025 7:23 PM] Chance
+There are more applications in...
+
+
+[3/13/2025 7:24 PM] Chance
+and mortgage, mortgage applications in Ramsey County than there were in
+
+
+[3/13/2025 7:24 PM] Kirstin
+And that pen.
+
+
+[3/13/2025 7:24 PM] Chance
+Hannah Pan.
+
+
+[3/13/2025 7:24 PM] Chance
+There we are.
+
+
+[3/13/2025 7:24 PM] Chance
+Tracks with new covenants.
+
+
+[3/13/2025 7:24 PM] Chance
+that had a pattern.
+
+
+[3/13/2025 7:24 PM] Chance
+and then it works.
+
+
+[3/13/2025 7:24 PM] Kirstin
+Yay!
+
+
+[3/13/2025 7:24 PM] Chance
+I got nothing.
+
+
+[3/13/2025 7:24 PM] Autumn
+That means, thank you.
+
+
+[3/13/2025 7:24 PM] Kirstin
+Explanation.
+
+
+[3/13/2025 7:24 PM] Chance
+like
+
+
+[3/13/2025 7:24 PM] Chance
+like what is this?
+
+
+[3/13/2025 7:24 PM] Chance
+I want to see, so there's two ways that we can,
+ that the data can be merged.
+
+
+[3/13/2025 7:25 PM] Chance
+And I put it.
+
+
+[3/13/2025 7:25 PM] Chance
+Ooooooh!
+
+
+[3/13/2025 7:25 PM] Chance
+damn.
+
+
+[3/13/2025 7:25 PM] Chance
+Thanks for watching!
+
+
+[3/13/2025 7:25 PM] Chance
+um so we can either do
+ you.
+
+
+[3/13/2025 7:25 PM] Chance
+Oh, my God.
+
+
+[3/13/2025 7:25 PM] Chance
+So I want to see what happens if I do covenants with tracks.
+
+
+[3/13/2025 7:25 PM] Chance
+I'll let predicate
+
+
+[3/13/2025 7:25 PM] Chance
+intersex.
+
+
+[3/13/2025 7:25 PM] Chance
+Oh, no.
+
+
+[3/13/2025 7:25 PM] Chance
+Okay, it did not like that.
+
+
+[3/13/2025 7:26 PM] Chance
+I can't believe we're not going to do that.
+
+
+[3/13/2025 7:26 PM] Chance
+So the way that I'm the way that
+
+
+[3/13/2025 7:26 PM] Chance
+rationalizing this. It is.
+
+
+[3/13/2025 7:26 PM] Chance
+that for each row, it's finding the centermost point in the box that it creates.
+
+
+[3/13/2025 7:26 PM] Chance
+like from this nonsense.
+
+
+[3/13/2025 7:26 PM] Autumn
+Yeah.
+
+
+[3/13/2025 7:26 PM] Chance
+And then it is
+
+
+[3/13/2025 7:26 PM] Chance
+So for each one, it basically creates a point.
+
+
+[3/13/2025 7:26 PM] Chance
+And then it joins
+
+
+[3/13/2025 7:26 PM] Chance
+the...
+
+
+[3/13/2025 7:27 PM] Chance
+all of those points so each with each row being a point having its own point
+
+
+[3/13/2025 7:27 PM] Chance
+seeing where that falls within the
+
+
+[3/13/2025 7:27 PM] Chance
+census track data.
+
+
+[3/13/2025 7:27 PM] Chance
+Like this stuff.
+
+
+[3/13/2025 7:27 PM] Chance
+from...
+
+
+[3/13/2025 7:27 PM] Chance
+Here.
+
+
+[3/13/2025 7:27 PM] Chance
+That's how I, that's...
+
+
+[3/13/2025 7:27 PM] Chance
+how it has the...
+
+
+[3/13/2025 7:27 PM] Chance
+That's the only way that it makes sense to me
+
+
+[3/13/2025 7:27 PM] Chance
+with your answer.
+
+
+[3/13/2025 7:27 PM] Kirstin
+Yeah.
+
+
+[3/13/2025 7:27 PM] Autumn
+because I see that there's like a track to come from the trees and so you
+
+
+[3/13/2025 7:27 PM] Chance
+Yeah, it looks like.
+
+
+[3/13/2025 7:27 PM] Autumn
+Yeah, that's what I'm trying.
+
+
+[3/13/2025 7:27 PM] Kirstin
+Yeah, it basically takes all the latitude and stuff and like Geo fences it into a track like makes them.
+
+
+[3/13/2025 7:27 PM] Chance
+endless.
+
+
+[3/13/2025 7:27 PM] Autumn
+how it makes its kind of...
+
+
+[3/13/2025 7:27 PM] Chance
+destroyed.
+
+
+[3/13/2025 7:27 PM] Autumn
+I'm making sure that it's really within that track versus potentially being on the edge.
+
+
+[3/13/2025 7:27 PM] Chance
+I'm sure it.
+
+
+[3/13/2025 7:27 PM] Kirstin
+Yeah.
+
+
+[3/13/2025 7:27 PM] Chance
+from.
+
+
+[3/13/2025 7:27 PM] Autumn
+and following the word neighborhood.
+
+
+[3/13/2025 7:28 PM] Autumn
+All right, yes. I'm going to read.
+
+
+[3/13/2025 7:28 PM] Chance
+This, these are multipoli, that's right.
+
+
+[3/13/2025 7:28 PM] Chance
+Multi-polligon.
+
+
+[3/13/2025 7:28 PM] Chance
+So what I'm gonna do is I'm going to save this as
+
+
+[3/13/2025 7:28 PM] Chance
+Ramsey.
+
+
+[3/13/2025 7:29 PM] Chance
+pd.dot
+
+
+[3/13/2025 7:29 PM] Chance
+to CSD.
+
+
+[3/13/2025 7:29 PM] Chance
+D-da!
+
+
+[3/13/2025 7:29 PM] Chance
+And then...
+
+
+[3/13/2025 7:29 PM] Chance
+I can't believe that worked.
+
+
+[3/13/2025 7:30 PM] Autumn
+Don't say such things, just save it.
+
+
+[3/13/2025 7:30 PM] Chance
+Hold on, I need.
+
+
+[3/13/2025 7:30 PM] Autumn
+Top War of Nature.
+
+
+[3/13/2025 7:30 PM] Chance
+I want to look at the actual file, though, like NXL because sometimes I just like...
+
+
+[3/13/2025 7:30 PM] Chance
+I don't like working with CSVs, like I want to be able to see.
+
+
+[3/13/2025 7:30 PM] Autumn
+Yeah.
+
+
+[3/13/2025 7:30 PM] Chance
+And so yeah, this looks like it matches the...
+
+
+[3/13/2025 7:30 PM] Chance
+same structure as...
+
+
+[3/13/2025 7:30 PM] Chance
+The other covenant one.
+
+
+[3/13/2025 7:30 PM] Chance
+So then what I guess I can also do?
+
+
+[3/13/2025 7:30 PM] Chance
+or wait, hold on.
+
+
+[3/13/2025 7:30 PM] Chance
+Covenant count.
+
+
+[3/13/2025 7:30 PM] Chance
+was approved. Only thing that's missing in this one is
+
+
+[3/13/2025 7:30 PM] Chance
+I'll teach you why.
+
+
+[3/13/2025 7:31 PM] Chance
+Let's see if we've got...
+
+
+[3/13/2025 7:31 PM] Chance
+Activity years since a strike derived for raise action taken load amount property value
+
+
+[3/13/2025 7:31 PM] Chance
+Income, interest rate.
+
+
+[3/13/2025 7:31 PM] Chance
+or any population percent.
+
+
+[3/13/2025 7:31 PM] Chance
+Trapped MSA in Comprisonage, denial of reason.
+
+
+[3/13/2025 7:31 PM] Chance
+Covenant Count was approved.
+
+
+[3/13/2025 7:31 PM] Chance
+Only thing that's missing is Covenant density here.
+
+
+[3/13/2025 7:31 PM] Chance
+which is just one extra column.
+
+
+[3/13/2025 7:31 PM] Chance
+um yeah.
+
+
+[3/13/2025 7:31 PM] Autumn
+When I was doing some initial exploration, I don't remember using that.
+
+
+[3/13/2025 7:31 PM] Chance
+Yeah, it looks like it's just a...
+
+
+[3/13/2025 7:31 PM] Chance
+So for each of the census tracks.
+
+
+[3/13/2025 7:31 PM] Chance
+I think.
+
+
+[3/13/2025 7:31 PM] Autumn
+Yeah, yeah, never mind. It did show a number.
+
+
+[3/13/2025 7:31 PM] Kirstin
+All right, you know, I have to go make sure my kid to get their homework done.
+
+
+[3/13/2025 7:31 PM] Autumn
+Oh.
+
+
+[3/13/2025 7:32 PM] Chance
+All right, yours. I think we're in a good spot. And then once I get finished here, I will drop a message just summing up.
+
+
+[3/13/2025 7:32 PM] Chance
+What's going on?
+
+
+[3/13/2025 7:32 PM] Chance
+Um.
+
+
+[3/13/2025 7:32 PM] Kirstin
+Sounds good.
+
+
+[3/13/2025 7:32 PM] Kirstin
+All right, talk to you later.
+
+
+[3/13/2025 7:32 PM] Kirstin
+Kirstin disconnected
+
+
+[3/13/2025 7:32 PM] Chance
+Okay, filter.
+
+
+[3/13/2025 7:32 PM] Autumn
+Bye!
+
+
+[3/13/2025 7:32 PM] Chance
+All right.
+
+
+[3/13/2025 7:32 PM] Autumn
+and chance someone's, do you need anything from ear just working away and I feel like I'm
+
+
+[3/13/2025 7:32 PM] Autumn
+I love you.
+
+
+[3/13/2025 7:32 PM] Autumn
+Allusions and I should stop.
+
+
+[3/13/2025 7:32 PM] Chance
+Okay, so.
+
+
+[3/13/2025 7:32 PM] Chance
+You're good.
+ Um.
+
+
+[3/13/2025 7:32 PM] Autumn
+You need to just go to work.
+
+
+[3/13/2025 7:32 PM] Chance
+So what, so what I'm going to do is I will
+
+
+[3/13/2025 7:32 PM] Chance
+I'm going to make two more changes.
+ I'm going to make a
+
+
+[3/13/2025 7:32 PM] Chance
+Well, so first things first, I'm going to delete the
+
+
+[3/13/2025 7:32 PM] Chance
+Ramsey County data.
+
+
+[3/13/2025 7:32 PM] Chance
+I'll see you next time.
+
+
+[3/13/2025 7:32 PM] Autumn
+Mm hmm.
+
+
+[3/13/2025 7:32 PM] Chance
+We don't need that.
+
+
+[3/13/2025 7:33 PM] Chance
+Oh, it's because it's open over here.
+ Um.
+
+
+[3/13/2025 7:33 PM] Chance
+So, hold on, and I'll combine data.
+
+
+[3/13/2025 7:33 PM] Chance
+Covenantch.
+
+
+[3/13/2025 7:33 PM] Chance
+So what I'm gonna do is I'm going to
+ Thank you, Lord.
+
+
+[3/13/2025 7:33 PM] Chance
+create this Covenant density one and then I'm going to create one big file that has all of Ramsey County and all of
+
+
+[3/13/2025 7:33 PM] Chance
+Had a pen.
+
+
+[3/13/2025 7:33 PM] Autumn
+Okay.
+
+
+[3/13/2025 7:33 PM] Chance
+And the nice things will be good.
+
+
+[3/13/2025 7:33 PM] Chance
+At least I'll be able to start throwing models at things.
+
+
+[3/13/2025 7:33 PM] Chance
+Not a problem.
+
+
+[3/13/2025 7:33 PM] Autumn
+Oh my gosh. No, thank you again. I mean so much. That's
+ Bye!
+
+
+[3/13/2025 7:33 PM] Chance
+Well, it I mean.
+
+
+[3/13/2025 7:33 PM] Autumn
+I love that you can say that with such ease.
+ Um.
+
+
+[3/13/2025 7:33 PM] Chance
+I don't know why I didn't think about this earlier.
+
+
+[3/13/2025 7:34 PM] Chance
+like the, like, using, if I just assume that, like,
+
+
+[3/13/2025 7:34 PM] Autumn
+Yeah, right.
+
+
+[3/13/2025 7:34 PM] Chance
+that all of it would have the same information,
+ like, but it's like, this is the,
+
+
+[3/13/2025 7:34 PM] Chance
+the... the...
+
+
+[3/13/2025 7:34 PM] Chance
+I don't know, like, this is what...
+
+
+[3/13/2025 7:34 PM] Chance
+Cracked it open though, the...
+
+
+[3/13/2025 7:34 PM] Chance
+these coordinates.
+
+
+[3/13/2025 7:34 PM] Chance
+Like, like these, like this geometry section is what like?
+
+
+[3/13/2025 7:34 PM] Autumn
+I have to be honest.
+
+
+[3/13/2025 7:34 PM] Autumn
+I mean, thank you, I hate to even ask so...
+
+
+[3/13/2025 7:34 PM] Autumn
+Or are you gonna upload that notebook to get hub two or
+
+
+[3/13/2025 7:34 PM] Autumn
+and utilize that.
+
+
+[3/13/2025 7:34 PM] Chance
+So all of the changes that I mean.
+
+
+[3/13/2025 7:34 PM] Chance
+All of the changes that I've made.
+
+
+[3/13/2025 7:34 PM] Chance
+are are in GitHub.
+
+
+[3/13/2025 7:34 PM] Autumn
+Okay. Okay.
+
+
+[3/13/2025 7:35 PM] Chance
+So once I finish making these last two columns
+ and these data sets,
+
+
+[3/13/2025 7:35 PM] Autumn
+Mm hmm.
+
+
+[3/13/2025 7:35 PM] Chance
+like all I have to do is save and then
+
+
+[3/13/2025 7:35 PM] Chance
+pushed to origin.
+
+
+[3/13/2025 7:35 PM] Chance
+And then everybody will have access to it.
+
+
+[3/13/2025 7:35 PM] Autumn
+that I was thinking about.
+
+
+[3/13/2025 7:35 PM] Autumn
+for the visuals again, I mean...
+
+
+[3/13/2025 7:35 PM] Chance
+Yeah, we'll end.
+
+
+[3/13/2025 7:35 PM] Autumn
+You've been very kind and generous, but thank you again. This is awesome.
+
+
+[3/13/2025 7:35 PM] Chance
+Not a problem.
+
+
+[3/13/2025 7:35 PM] Chance
+Not a problem.
+
+
+[3/13/2025 7:35 PM] Chance
+But yeah, so I'm going to knock this out right fast and then
+
+
+[3/13/2025 7:35 PM] Chance
+I will get...
+
+
+[3/13/2025 7:35 PM] Chance
+Yeah, because
+
+
+[3/13/2025 7:35 PM] Chance
+Yeah, like, because once I get, like, once I get this done, I think it should go smoothly.
+
+
+[3/13/2025 7:35 PM] Autumn
+Oh, well, I'll...
+
+
+[3/13/2025 7:35 PM] Chance
+Yeah, so.
+
+
+[3/13/2025 7:35 PM] Autumn
+No, boy.
+
+
+[3/13/2025 7:35 PM] Chance
+Oh, no, no, no, no, no.
+
+
+[3/13/2025 7:36 PM] Autumn
+Oh, no, I was just saying, you know, um,
+
+
+[3/13/2025 7:36 PM] Autumn
+I'm not that much help here, but I am free. I know that other folks have young kiddos, but if there is anything that you need, please let me know and I did just, you know, create.
+
+
+[3/13/2025 7:36 PM] Autumn
+We will talk some slides, you know, doing what I can over here.
+
+
+[3/13/2025 7:36 PM] Chance
+Thank you.
+ Pfft.
+
+
+[3/13/2025 7:36 PM] Autumn
+My contribution might it feels so silly, but I dropped a link to the Google Docs
+ Thanks.
+ Hahaha!
+
+
+[3/13/2025 7:36 PM] Chance
+And I.
+
+
+[3/13/2025 7:36 PM] Autumn
+But yeah, I know I keep saying it, but I do, I don't know from, I'm sure the everyone appreciates you, but from my perspective, I just always want people to know that they're appreciated, especially in a group project like this.
+
+
+[3/13/2025 7:36 PM] Chance
+I am really appreciate, like I feel like we all work super well together like
+
+
+[3/13/2025 7:36 PM] Autumn
+Come on, Mama. Yeah.
+
+
+[3/13/2025 7:36 PM] Chance
+I don't know, this is definitely I think been the most.
+
+
+[3/13/2025 7:36 PM] Chance
+I would say the, I guess I would say like the most shoulder group that I've been in in
+ grad school.
+
+
+[3/13/2025 7:37 PM] Chance
+because like, but also I think a lot of it is like we're spending all semester working together on it, like on different projects, so it's not like
+
+
+[3/13/2025 7:37 PM] Chance
+It's not like the data dives where it's like, oh, you're working with people that you've like never met before.
+
+
+[3/13/2025 7:37 PM] Autumn
+Right, whichever had really nice groups, but that's it it's like that is my interaction with
+
+
+[3/13/2025 7:37 PM] Autumn
+And then you start.
+
+
+[3/13/2025 7:37 PM] Chance
+Oh, how did you get feedback
+ on your predictive modeling data dive?
+
+
+[3/13/2025 7:37 PM] Chance
+Oh, here.
+
+
+[3/13/2025 7:37 PM] Autumn
+You don't have to, it was...
+
+
+[3/13/2025 7:37 PM] Autumn
+I did. Thank you. Are we still recording?
+ Thank you.
+
+
+[3/13/2025 7:37 PM] Autumn
+Um.
+
+
+[3/13/2025 7:37 PM] Autumn
+I was kind.
+
+
+[3/13/2025 7:37 PM] Chance
+Or wait, hold on.
+
+
+[3/13/2025 7:37 PM] Autumn
+Okay.
+
+
+[3/13/2025 7:37 PM] Chance
+Chance disconnected
+
+
+[3/13/2025 7:37 PM] Autumn
+Autumn disconnected
+
+
+==============================================================
+Exported 1,107 message(s)
+==============================================================
